@@ -16,9 +16,14 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'News', link: '/news'}
   - {name: 'People', link: '/people'}
+  - {name: 'Research', link: '/about'}
+  - {name: 'Publications', link: '/pubs'}
+  - {name: 'Shared Resources', link: '/shared'}
+  - {name: 'Join Us', link: '/join'}
+  - {name: 'Contact', link: '/contact'}
+
 
 tagline: >
   Understanding brain-wide circuits underlying cognition and behavior
