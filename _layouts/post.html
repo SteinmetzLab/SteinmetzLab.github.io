@@ -43,14 +43,6 @@ layout: compress
         <span>
           <time>{{ page.date | date_to_string }}</time>&nbsp;&middot;
         </span>
-        <span>
-            {% assign words = content | number_of_words %}
-              {% if words < 360 %}
-                1 min
-              {% else %}
-                {{ words | divided_by:180 }} mins
-            {% endif %} read
-        </span>
       </p>
     </div>
   </div>
