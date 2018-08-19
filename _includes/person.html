@@ -17,7 +17,9 @@
           class="lazyload blur"
           alt="{{person.name}}"
         /> -->
-        <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/people/{{person.img}}.jpg" alt="{{ person.name }}"></noscript>
+        <!-- <noscript> -->
+			<img src="{{ site.url }}{{ site.baseurl }}/assets/img/people/{{person.img}}.jpg" alt="{{ person.name }}">
+		<!-- </noscript> -->
       </figure>
     {% else %}
       <figure class="post-card__thumb">
