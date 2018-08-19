@@ -2,7 +2,8 @@
 	"person": [
 		{
 			"name": "Nick Steinmetz",
-			"role": "Principal Investigator"
+			"role": "Principal Investigator",
+			"img": "nick"
 		},
 		{
 			"name": "Plant",
