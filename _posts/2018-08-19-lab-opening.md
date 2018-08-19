@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lab will open in January 2019!"
-featured-img: nick
+featured-img: uwLogo
 categories:
 ---
 
