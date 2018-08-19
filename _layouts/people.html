@@ -30,7 +30,7 @@ layout: compress
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-            {% for post in site.people %}
+            {% for person in site.data.people %}
               {% include person.html %}
             {% endfor %}
 
