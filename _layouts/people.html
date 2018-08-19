@@ -31,7 +31,8 @@ layout: compress
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 			{% assign people = site.data.people.person %}
             {% for person in people %}
-			  <h1>{{person.name}}</h1>
+			  
+			  {% include person.html %}
             {% endfor %}
 
           </div>

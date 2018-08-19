@@ -9,7 +9,7 @@
     </span>
   {% endif %} -->
   <a href="{{ person.url | relative_url }}">
-    {% if post.featured-img %}
+    {% if person.featured-img %}
       <figure class="post-card__thumb">
         <img
           src="{{ site.url }}{{ site.baseurl }}/assets/img/people/{{person.name.featured-img}}_placehold.jpg",
@@ -17,7 +17,7 @@
           class="lazyload blur"
           alt="{{person.name}}"
         />
-        <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/people/{{person.name.featured-img}}_thumb.jpg" alt="{{ person.name }}"></noscript>
+        <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/people/{{person.img}}_thumb.jpg" alt="{{ person.name }}"></noscript>
       </figure>
     {% else %}
       <figure class="post-card__thumb">
@@ -32,7 +32,9 @@
       <!-- <span class="post-card__meta">
         <time>{{ post.date | date: date_format }}</time>
       </span> -->
-      {{ person.role }}
+      <span class="post-card__meta">
+		  {{ person.role }}
+		</span>
     </div>
     <!-- {% if post.summary %}
       <p>{{ post.summary | strip_html | truncatewords:20 }}</p>
