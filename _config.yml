@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 title: Steinmetz Lab # your site title
-author: SteinmetzLab # You :P
+author: Nick Steinmetz # You :P
 description: > # Meta description of Homepage
   Neuroscience laboratory at University of Washington, Department of Biological Structure. PI Nick Steinmetz. 
 baseurl: "/" # the subpath of your site, e.g. /blog
