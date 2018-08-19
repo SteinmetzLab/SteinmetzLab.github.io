@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab will open in January 2019"
+title: "Lab will open in January 2019!"
 featured-img:
 categories:
 ---
