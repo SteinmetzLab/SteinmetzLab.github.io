@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-###Starting January 2019
+### Starting January 2019
 
 Room I537C
 
