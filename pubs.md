@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: pubs
 title: Publications
 permalink: /pubs/
 ---
 
-1.
+

@@ -1,0 +1,66 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+  {% include head.html %}
+
+  <body class="site">
+
+    {% if site.google_tag_manager %}
+
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+
+    {% endif %}
+
+    {% include header.html %}
+	
+    <div class="hero--small">
+      <div class="hero__wrap">
+        <h1 class="hero__title">{{ page.title }}</h1>
+      </div>
+    </div>
+
+      
+    <main class="site__content">
+		
+		
+      <div class="container">
+        <div class="page-content">
+
+			{% assign pubs = site.data.pubs %}
+		  
+			{% if pubs.preprint %}
+				<h1> Preprints </h1>
+				{% assign preprints = pubs.preprint %}
+				<ul>
+				{% for paper in preprints %}
+					{% include paper.html %}
+				{% endfor %}
+				</ul>
+			{% endif %}
+			
+			{% if pubs.peerReviewed %}
+				<h1> Peer-reviewed publications </h1>
+				<ul>
+				{% for paper in pubs.peerReviewed %}
+					{% include paper.html %}
+				{% endfor %}
+				</ul>
+			{% endif %}
+
+		</div>
+      </div>
+	  		
+
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
