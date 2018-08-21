@@ -17,6 +17,25 @@
 			"tags": ["preprint", "neuropixels", "population", "behavior", "brainwide"]
 		},
 		{
+			"authors": "Jacobs EAK, <b>Steinmetz NA</b>, Carandini M, Harris KD",
+			"title": "Cortical state fluctuations during sensory decision making",
+			"year": "2018",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/early/2018/06/16/348193",
+			"tags": ["preprint", "widefield", "dynamics", "behavior", "brainwide"]
+		},
+		{
+			"authors": "Okun M, <b>Steinmetz NA</b>, Lak A, Dervinis M, Harris KD",
+			"title": "Distinct structure of cortical population activity on fast and infraslow timescales",
+			"year": "2018",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/early/2018/08/18/395251",
+			"tags": ["preprint", "neuropixels", "dynamics", "population", "brainwide"]
+		},
+		
+		
+		
+		{
 			"authors": "Jun J*, <b>Steinmetz NA*</b>, Siegle JH*, Denman DJ*, Bauza M*, et al.",
 			"title": "Fully Integrated Silicon Probes for High-Density Recording of Neural Activity",
 			"year": "2017",
