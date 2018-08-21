@@ -30,10 +30,13 @@ tagline: >
 
 hero_img: posts/sagittal_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-# email: your-email@domain.com # email for form submission
+email: nick.steinmetz@gmail.com # email for form submission
 
 twitter_username: SteinmetzNeuro # replace with your_twitter_username or comment to remove link from footer
 github_username:  SteinmetzLab # replace with your_github_username or comment to remove link from footer
+orcid_id: 0000-0001-7029-2908
+scholar_id: PkcYP74AAAAJ
+pubmed_search: Steinmetz%20NA%5BAuthor%5D
 # instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
 
 # disqus:
