@@ -6,16 +6,33 @@
 			"year": "2018",
 			"journal": "bioRxiv",
 			"link": "https://www.biorxiv.org/content/early/2018/07/22/374090",
-			"tags": ["preprint", "neuropixels", "population"]
+			"tags": ["preprint", "neuropixels", "population", "vision"]
 		},
 		{
-			"authors": "Jun J*, <b>Steinmetz NA*</b>, Siegle JH*, Denman DJ*, Bauza M*, et al.,",
+			"authors": "Stringer C*, Pachitariu P*, <b>Steinmetz NA</b>, Carandini M, Harris KD",
+			"title": "Spontaneous behaviors drive multidimensional, brain-wide population activity",
+			"year": "2018",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/early/2018/04/22/306019",
+			"tags": ["preprint", "neuropixels", "population", "behavior", "brainwide"]
+		},
+		{
+			"authors": "Jun J*, <b>Steinmetz NA*</b>, Siegle JH*, Denman DJ*, Bauza M*, et al.",
 			"title": "Fully Integrated Silicon Probes for High-Density Recording of Neural Activity",
 			"year": "2017",
 			"journal": "Nature",
 			"link": "https://www.nature.com/articles/nature24636", 
 			"pdflink": "Jun et al. - 2017 - Fully Integrated Silicon Probes for High-Density Recording of Neural Activity.pdf",
 			"tags": ["peerReview", "neuropixels"]
+		},
+		{
+			"authors": "<b>Steinmetz NA</b>, Koch C, Harris KD, Carandini M",
+			"title": "Large-scale electrophysiology with Neuropixels probes",
+			"year": "2018",
+			"journal": "Current Opinion in Neurobiology",
+			"link": "https://doi.org/10.1016/j.conb.2018.01.009", 
+			"pdflink": "Steinmetz et al. - 2018 - Challenges and opportunities for large-scale electrophysiology with Neuropixels probes.pdf",
+			"tags": ["review", "neuropixels"]
 		}
 	]
 }

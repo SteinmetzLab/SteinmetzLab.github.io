@@ -37,31 +37,29 @@ layout: compress
 		  	<h1> Preprints </h1>
 			<ul>
 		  	{% for paper in pubs.papers %}
-				{{paper.journal}}
 				{% if paper.tags contains "preprint" %}
 					{% include paper.html %}
 				{% endif %}
 			{% endfor %}
 			</ul>
 			
-<!--			{% if pubs.preprint %}
-				<h1> Preprints </h1>
-				{% assign preprints = pubs.preprint %}
-				<ul>
-				{% for paper in preprints %}
+		  	<h1> Peer-Reviewed Publications </h1>
+			<ul>
+		  	{% for paper in pubs.papers %}
+				{% if paper.tags contains "peerReview" %}
 					{% include paper.html %}
-				{% endfor %}
-				</ul>
-			{% endif %}
-
-			{% if pubs.peerReviewed %}
-				<h1> Peer-reviewed publications </h1>
-				<ul>
-				{% for paper in pubs.peerReviewed %}
+				{% endif %}
+			{% endfor %}
+			</ul>
+			
+		  	<h1> Reviews and Commentary </h1>
+			<ul>
+		  	{% for paper in pubs.papers %}
+				{% if paper.tags contains "review" %}
 					{% include paper.html %}
-				{% endfor %}
-				</ul>
-			{% endif % -->}
+				{% endif %}
+			{% endfor %}
+			</ul>
 
 		</div>
       </div>
