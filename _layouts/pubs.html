@@ -34,7 +34,18 @@ layout: compress
 
 			{% assign pubs = site.data.pubs %}
 		  
-			{% if pubs.preprint %}
+		  	<h1> Preprints </h1>
+			<ul>
+		  	{% for paper in pubs.papers %}
+				{% for tag in paper.tags %}
+					{% if tag.preprint %}
+						{% include paper.html %}
+					{% endif %}
+				{% endfor %}
+			{% endfor %}
+			</ul>
+			
+<!--			{% if pubs.preprint %}
 				<h1> Preprints </h1>
 				{% assign preprints = pubs.preprint %}
 				<ul>
@@ -43,7 +54,7 @@ layout: compress
 				{% endfor %}
 				</ul>
 			{% endif %}
-			
+
 			{% if pubs.peerReviewed %}
 				<h1> Peer-reviewed publications </h1>
 				<ul>
@@ -51,7 +62,7 @@ layout: compress
 					{% include paper.html %}
 				{% endfor %}
 				</ul>
-			{% endif %}
+			{% endif % -->}
 
 		</div>
       </div>

@@ -1,14 +1,13 @@
 {
-	"preprint": [
+	"papers": [
 		{
 			"authors": "Stringer C*, Pachitariu P*, <b>Steinmetz NA</b>, Carandini M, Harris KD",
 			"title": "High-dimensional geometry of population responses in visual cortex",
 			"year": "2018",
 			"journal": "bioRxiv",
 			"link": "https://www.biorxiv.org/content/early/2018/07/22/374090"
-		}
-	],
-	"peerReviewed": [
+			"tags": ["preprint", "neuropixels", "population"]
+		},
 		{
 			"authors": "Jun J*, <b>Steinmetz NA*</b>, Siegle JH*, Denman DJ*, Bauza M*, et al.,",
 			"title": "Fully Integrated Silicon Probes for High-Density Recording of Neural Activity",
@@ -16,7 +15,7 @@
 			"journal": "Nature",
 			"link": "https://www.nature.com/articles/nature24636", 
 			"pdflink": "Jun et al. - 2017 - Fully Integrated Silicon Probes for High-Density Recording of Neural Activity.pdf"
+			"tags": ["peerReview", "neuropixels"]
 		}
 	]
-	
 }
