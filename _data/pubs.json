@@ -33,6 +33,32 @@
 			"link": "https://doi.org/10.1016/j.conb.2018.01.009", 
 			"pdflink": "Steinmetz et al. - 2018 - Challenges and opportunities for large-scale electrophysiology with Neuropixels probes.pdf",
 			"tags": ["review", "neuropixels"]
+		},
+		{
+			"authors": "Squire RF*, <b>Steinmetz NA</b>*, Moore T",
+			"title": "Frontal Eye Fields",
+			"year": "2012",
+			"journal": "Scholarpedia",
+			"link": "http://www.scholarpedia.org/article/Frontal_eye_field", 
+			"tags": ["review", "attention"]
+		},
+		{
+			"authors": "<b>Steinmetz NA</b>, Moore T",
+			"title": "Lumping and splitting the neural circuitry of visual attention",
+			"year": "2012",
+			"journal": "Neuron",
+			"link": "https://www.ncbi.nlm.nih.gov/pubmed/22325195", 
+			"pdflink": "Steinmetz, Moore - 2012 - Lumping and splitting the neural circuitry of visual attention.pdf",
+			"tags": ["review", "attention"]
+		},
+		{
+			"authors": "Noudoost B, Chang MH, <b>Steinmetz NA</b>, Moore T",
+			"title": "Top-down control of visual attention",
+			"year": "2010",
+			"journal": "Current Opinion in Neurobiology",
+			"link": "https://www.ncbi.nlm.nih.gov/pubmed/20303256", 
+			"pdflink": "Noudoost et al. - 2010 - Top-down control of visual attention.pdf",
+			"tags": ["review", "attention"]
 		}
 	]
 }

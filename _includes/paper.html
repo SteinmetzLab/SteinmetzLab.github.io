@@ -1,7 +1,8 @@
 
 <li>{{paper.authors}}
-<a href="{{paper.link}}">"{{paper.title}}"</a>, <i>{{paper.journal}}</i>. {{paper.year}}
+<br><a href="{{paper.link}}">"{{paper.title}}"</a>
+<br><i>{{paper.journal}}</i>. {{paper.year}}
 {% if paper.pdflink %}
-<a href="{{site.baseurl}}/assets/img/{{paper.pdflink}}">[PDF]</a>
+<br><a href="{{site.baseurl}}/assets/img/{{paper.pdflink}}">[PDF]</a>
 {% endif %}
 </li>
