@@ -4,27 +4,27 @@
               
         <div style="font-size: 20px;">
 		  {% if site.email %}
-		  <a class="social__link href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a>
+		  <a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a>
 		  {% endif %}
 		  
 		  {% if site.github %}
-		  <a class="social__link href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i></a>
+		  <a href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i></a>
 		  {% endif %}
         
 		  {% if site.twitter_username %}
-		  <a class="social__link href="https://twitter.com/{{site.twitter_username}}" target="_blank"><i class="fa fa-twitter"></i></a>
+		  <a href="https://twitter.com/{{site.twitter_username}}" target="_blank"><i class="fa fa-twitter"></i></a>
 		  {% endif %}
 		  
 		  {% if site.orcid_id %}
-		  <a class="social__link" href="https://orcid.org/{{site.orcid_id}}" target="_blank"><i class="ai ai-orcid"></i></a>
+		  <a href="https://orcid.org/{{site.orcid_id}}" target="_blank"><i class="ai ai-orcid"></i></a>
 		  {% endif %}
 		  
 		  {% if site.scholar_id %}
-		  <a class="social__link" href="https://scholar.google.co.uk/citations?user={{site.scholar_id}}&hl=en" target="_blank"><i class="ai ai-google-scholar"></i></a>
+		  <a href="https://scholar.google.co.uk/citations?user={{site.scholar_id}}&hl=en" target="_blank"><i class="ai ai-google-scholar"></i></a>
 		  {% endif %}
 		  
 		  {% if site.pubmed_search %}
-		  <a class="social__link" href="https://www.ncbi.nlm.nih.gov/pubmed/?term={{site.pubmed_search}}" target="_blank"><i class="ai ai-pubmed"></i></a>
+		  <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term={{site.pubmed_search}}" target="_blank"><i class="ai ai-pubmed"></i></a>
 		  {% endif %}
 	  </div>
 	  </nav>
