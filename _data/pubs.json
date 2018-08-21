@@ -5,7 +5,7 @@
 			"title": "High-dimensional geometry of population responses in visual cortex",
 			"year": "2018",
 			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/early/2018/07/22/374090"
+			"link": "https://www.biorxiv.org/content/early/2018/07/22/374090",
 			"tags": ["preprint", "neuropixels", "population"]
 		},
 		{
@@ -14,7 +14,7 @@
 			"year": "2017",
 			"journal": "Nature",
 			"link": "https://www.nature.com/articles/nature24636", 
-			"pdflink": "Jun et al. - 2017 - Fully Integrated Silicon Probes for High-Density Recording of Neural Activity.pdf"
+			"pdflink": "Jun et al. - 2017 - Fully Integrated Silicon Probes for High-Density Recording of Neural Activity.pdf",
 			"tags": ["peerReview", "neuropixels"]
 		}
 	]
