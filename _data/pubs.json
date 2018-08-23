@@ -83,7 +83,7 @@
 			"year": "2016",
 			"journal": "Science",
 			"link": "https://www.ncbi.nlm.nih.gov/pubmed/27934763",
-			"pdflink": "Engel et al. - 2016 - Selective modulation of cortical state during spatial attention.pdf"
+			"pdflink": "Engel et al. - 2016 - Selective modulation of cortical state during spatial attention.pdf",
 			"tags": ["peerReview", "attention", "dynamics", "vision", "behavior"]
 		},
 		{
@@ -92,7 +92,7 @@
 			"year": "2016",
 			"journal": "eLife",
 			"link": "https://www.ncbi.nlm.nih.gov/pubmed/27926356",
-			"pdflink": "Stringer et al. - 2016 - Inhibitory control of correlated intrinsic variability in cortical networks.pdf"
+			"pdflink": "Stringer et al. - 2016 - Inhibitory control of correlated intrinsic variability in cortical networks.pdf",
 			"tags": ["peerReview", "dynamics"]
 		},
 		{
@@ -101,7 +101,7 @@
 			"year": "2016",
 			"journal": "NIPS",
 			"link": "https://papers.nips.cc/paper/6326-fast-and-accurate-spike-sorting-of-high-channel-count-probes-with-kilosort",
-			"pdflink": "Pachitariu et al. - 2016 - Fast and accurate spike sorting of high-channel count probes with KiloSort.pdf"
+			"pdflink": "Pachitariu et al. - 2016 - Fast and accurate spike sorting of high-channel count probes with KiloSort.pdf",
 			"tags": ["peerReview", "methods", "neuropixels"]
 		},
 		{
@@ -110,7 +110,7 @@
 			"year": "2015",
 			"journal": "Nature",
 			"link": "https://www.ncbi.nlm.nih.gov/pubmed/25849776",
-			"pdflink": "Okun et al. - 2015 - Diverse coupling of neurons to populations in sensory cortex.pdf"
+			"pdflink": "Okun et al. - 2015 - Diverse coupling of neurons to populations in sensory cortex.pdf",
 			"tags": ["peerReview", "dynamics", "population", "vision", "attention"]
 		},
 		{
@@ -119,7 +119,7 @@
 			"year": "2014",
 			"journal": "J. of Vision",
 			"link": "https://www.ncbi.nlm.nih.gov/pubmed/25146574",
-			"pdflink": "Sridharan et al. - 2014 - Distinguishing bias from sensitivity effects in multialternative detection tasks.pdf"
+			"pdflink": "Sridharan et al. - 2014 - Distinguishing bias from sensitivity effects in multialternative detection tasks.pdf",
 			"tags": ["peerReview", "vision", "attention", "psychophysics", "methods"]
 		},
 		{
@@ -128,7 +128,7 @@
 			"year": "2014",
 			"journal": "Neuron",
 			"link": "https://www.ncbi.nlm.nih.gov/pubmed/25033188",
-			"pdflink": "Steinmetz, Moore - 2014 - Eye Movement Preparation Modulates Neuronal Responses in Area V4 When Dissociated from Attentional Demands.pdf"
+			"pdflink": "Steinmetz, Moore - 2014 - Eye Movement Preparation Modulates Neuronal Responses in Area V4 When Dissociated from Attentional Demands.pdf",
 			"tags": ["peerReview", "vision", "attention", "behavior"]
 		},
 		{
@@ -137,7 +137,7 @@
 			"year": "2014",
 			"journal": "Ph.D. Thesis, Stanford University",
 			"link": "https://searchworks.stanford.edu/view/10408980",
-			"pdflink": "Steinmetz - 2014 - Circuits Underlying Visual Attention in Primate Neocortex.pdf"
+			"pdflink": "Steinmetz - 2014 - Circuits Underlying Visual Attention in Primate Neocortex.pdf",
 			"tags": ["peerReview", "vision", "attention", "behavior", "psychophysics", "microcircuits"]
 		},
 		{
@@ -146,7 +146,7 @@
 			"year": "2014",
 			"journal": "Nature",
 			"link": "https://www.ncbi.nlm.nih.gov/pubmed/24670771",
-			"pdflink": "Zirnsak et al. - 2014 - Visual space is compressed in prefrontal cortex before eye movements.pdf"
+			"pdflink": "Zirnsak et al. - 2014 - Visual space is compressed in prefrontal cortex before eye movements.pdf",
 			"tags": ["peerReview", "vision", "attention", "behavior"]
 		},
 		{
@@ -155,7 +155,7 @@
 			"year": "2010",
 			"journal": "J. of Neurophysiology",
 			"link": "https://www.ncbi.nlm.nih.gov/pubmed/20018834",
-			"pdflink": "Steinmetz, Moore - 2010 - Changes in the response rate and response variability of area V4 neurons during the preparation of saccadic ey.pdf"
+			"pdflink": "Steinmetz, Moore - 2010 - Changes in the response rate and response variability of area V4 neurons during the preparation of saccadic ey.pdf",
 			"tags": ["peerReview", "vision", "attention", "behavior", "dynamics"]
 		},
 		{
@@ -164,7 +164,7 @@
 			"year": "2009",
 			"journal": "Neuron",
 			"link": "https://www.ncbi.nlm.nih.gov/pubmed/19217381",
-			"pdflink": "Aton et al. - 2009 - Mechanisms of sleep-dependent consolidation of cortical plasticity.pdf"
+			"pdflink": "Aton et al. - 2009 - Mechanisms of sleep-dependent consolidation of cortical plasticity.pdf",
 			"tags": ["peerReview", "sleep", "plasticity", "vision"]
 		},
 		{
@@ -173,7 +173,7 @@
 			"year": "2008",
 			"journal": "J. of Cognitive Neuroscience",
 			"link": "https://www.ncbi.nlm.nih.gov/pubmed/18345986",
-			"pdflink": "Liu et al. - 2008 - Mid-fusiform activation during object discrimination reflects the process of differentiating structural descriptions.pdf"
+			"pdflink": "Liu et al. - 2008 - Mid-fusiform activation during object discrimination reflects the process of differentiating structural descriptions.pdf",
 			"tags": ["peerReview", "vision"]
 		},
 		{
@@ -182,7 +182,7 @@
 			"year": "2006",
 			"journal": "Neuroimage",
 			"link": "https://www.ncbi.nlm.nih.gov/pubmed/16750396",
-			"pdflink": "Joseph et al. - 2006 - fMRI correlates of cortical specialization and generalization for letter processing.pdf"
+			"pdflink": "Joseph et al. - 2006 - fMRI correlates of cortical specialization and generalization for letter processing.pdf",
 			"tags": ["peerReview", "vision"]
 		},
 		{
@@ -191,7 +191,7 @@
 			"year": "2006",
 			"journal": "J. of Neuroscience Methods",
 			"link": "https://www.ncbi.nlm.nih.gov/pubmed/16675025",
-			"pdflink": "Joseph et al. - 2006 - fMRI in alert, behaving monkeys an adaptation of the human infant familiarization novelty preference procedure.pdf"
+			"pdflink": "Joseph et al. - 2006 - fMRI in alert, behaving monkeys an adaptation of the human infant familiarization novelty preference procedure.pdf",
 			"tags": ["peerReview", "methods"]
 		},
 		{
@@ -200,7 +200,7 @@
 			"year": "2005",
 			"journal": "J. of Neuroscience",
 			"link": "https://www.ncbi.nlm.nih.gov/pubmed/16207886",
-			"pdflink": "Jha et al. - 2005 - Sleep-dependent plasticity requires cortical activity.pdf"
+			"pdflink": "Jha et al. - 2005 - Sleep-dependent plasticity requires cortical activity.pdf",
 			"tags": ["peerReview", "sleep", "vision", "plasticity"]
 		},
 		{
