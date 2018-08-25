@@ -15,7 +15,6 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
   - {name: 'News', link: '/news'}
   - {name: 'People', link: '/people'}
   - {name: 'Research', link: '/about'}
