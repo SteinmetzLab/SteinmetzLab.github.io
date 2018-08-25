@@ -33,6 +33,14 @@
 			"tags": ["preprint", "neuropixels", "dynamics", "population", "brainwide"]
 		},
 		{
+			"authors": "Pettine WW, <b>Steinmetz NA</b>, Moore T",
+			"title": "Laminar Segregation of Sensory Coding and Behavioral Readout in Macaque V4",
+			"year": "2018",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/early/2018/08/24/399626",
+			"tags": ["preprint", "vision", "microcircuits", "behavior", "population", "attention"]
+		},
+		{
 			"authors": "<b>Steinmetz NA</b>, Koch C, Harris KD, Carandini M",
 			"title": "Large-scale electrophysiology with Neuropixels probes",
 			"year": "2018",
