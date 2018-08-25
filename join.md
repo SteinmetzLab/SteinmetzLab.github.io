@@ -4,6 +4,6 @@ title: Join the Steinmetz Lab
 permalink: /join/
 ---
 
-Interested in joining us? The Steinmetz Lab is hiring!
+The Steinmetz Lab is hiring!
 
-Please contact me with your CV, etc. 
+We are looking for curious, motivated, and talented individuals who are interested in working on understanding 

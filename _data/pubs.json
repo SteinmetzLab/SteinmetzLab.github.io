@@ -2,6 +2,7 @@
 	"papers": [
 		{
 			"authors": "Stringer C*, Pachitariu P*, <b>Steinmetz NA</b>, Carandini M, Harris KD",
+			"authors_short": ["Stringer*", "Pachitariu*", "Steinmetz", "Carandini", "Harris"],
 			"title": "High-dimensional geometry of population responses in visual cortex",
 			"year": "2018",
 			"journal": "bioRxiv",
