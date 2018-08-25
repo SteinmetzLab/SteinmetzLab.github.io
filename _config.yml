@@ -27,6 +27,8 @@ navigation: # Navigation links
 
 tagline: >
   Understanding brain-wide circuits underlying cognition and behavior
+  <p><i>University of Washington</i></p>
+  <p><i>Neuropixels 2.0 Consortium</i></p>
 
 hero_img: posts/sagittal_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
