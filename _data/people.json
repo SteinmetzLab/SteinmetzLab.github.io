@@ -6,8 +6,9 @@
 			"img": "nick"
 		},
 		{
-			"name": "Plant",
-			"role": "happiness agent"
+			"name": "You?",
+			"role": "The Steinmetz lab is hiring!"
+			"url": "/join"
 		}
 	]
 }
