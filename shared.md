@@ -14,5 +14,5 @@ permalink: /shared/
 <li><a href="https://github.com/cortex-lab/allenCCF">allenCCF</a>, code and GUIs for browsing and working with the Allen Institute's Common Coordinate Framework atlas in Matlab.</li>
 <li><a href="https://github.com/cortex-lab/alyx">Alyx</a>, a database framework for management of experimental subjects and associated datasets, in PostgreSQL. Developed with Cyrille Rossant, Max Hunter, and Kenneth Harris. <a href="https://github.com/cortex-lab/alyx-matlab">Associated code</a> for working with the database from Matlab.</li>
 <li><a href="http://neuropix.cortexlab.net">Wiki and user forum</a> for practical details of using Neuropixels probes. See also our <a href="http://www.ucl.ac.uk/neuropixels/courses/2018-course">training course</a> on the use of Neuropixels probes.</li>
-<li><a href="https://www.ucl.ac.uk/cortexlab/tools/wheel">Wheel task</a>: hardware designs and software for deploying this task. 
+<li><a href="https://www.ucl.ac.uk/cortexlab/tools/wheel">Wheel task</a>: hardware designs and software for deploying this task. </li>
 </ul>
