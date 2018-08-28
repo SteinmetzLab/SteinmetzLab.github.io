@@ -8,9 +8,11 @@ permalink: /join/
 
 We are looking for curious, motivated, and talented individuals who are interested in joining a new lab focused on employing cutting-edge electrophysiological, imaging, and behavioral techniques to answer questions about the neural basis of cognition and beahvior. 
 
+<p> We are committed to making neuroscience a more open and inclusive field, so we encourage applications from individuals with unconventional backgrounds or from underrepresented groups.</p>
+
 <p><h3>Post-doctoral scientists</h3>
 
-If you like asking hard questions, making things work, and pursuing creative ideas then this lab may be for you. Applicants with a variety of backgrounds are welcome, but in general prior experience with neurophysiology and advanced data analysis are desirable characteristics. 
+If you like asking hard questions, making things work, and pursuing creative ideas with state-of-the-art tools then this lab may be for you. Prior experience with neurophysiology and advanced data analysis are desirable. Please send a CV, a short statement of your interests and goals, and contact information for three people who are familiar with your scientific aptitude or other relevant characteristics to nick.steinmetz@gmail.com.
 
 <p><h3>Research technician / laboratory manager</h3>
 
