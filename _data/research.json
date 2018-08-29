@@ -1,0 +1,14 @@
+{
+	"projects": [
+		{
+			"title": "Visual psychophysics",
+			"subtitle": "Quantifiable behaviors for mice",
+			"img": "icon_behavior-01"
+		},
+		{
+			"title": "Neuropixels",
+			"subtitle": "Next-generation electrophysiology",
+			"img": ""
+		}
+	]
+}
