@@ -4,7 +4,7 @@ title: Our Research
 permalink: /about/
 ---
 
-<p>Our goal is to understand the neural mechanisms underlying perception, cognition, and action. In particular, we study how these brain functions are distributed across diverse neural circuits, and how these distributed populations of neurons coordinate their activity you generate useful behaviors. </p>
+<p>Our goal is to understand the neural mechanisms underlying perception, cognition, and action. In particular, we study how these brain functions are distributed across diverse neural circuits, and how these distributed populations of neurons coordinate their activity to generate useful behaviors. </p>
 
 <p>Our approach is to employ state-of-the-art methods for measuring and manipulating neural activity at large scale and high resolution, combined with sophisticated, quantifiable behavioral tasks and mechanistic modeling. </p>
 
