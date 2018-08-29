@@ -17,6 +17,7 @@
         <div class="dark-bg"></div>
       </figure>
     {% endif %}
+	<div class="post-card__inner">
     <div class="post-card__header">
       <h2>{{ project.title | strip_html | truncate: 50 }}</h2>
 
@@ -24,5 +25,6 @@
 		  {{ project.subtitle }}
 		</span>
     </div>
+</div>
 
 </div>
