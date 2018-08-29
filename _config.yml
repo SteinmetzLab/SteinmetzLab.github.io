@@ -25,9 +25,11 @@ navigation: # Navigation links
 
 
 tagline: >
-  Understanding brain-wide circuits underlying cognition and behavior
-  <p><i>University of Washington</i></p>
-  <p><i>Neuropixels 2.0 Consortium</i></p>
+  <p><i>at the University of Washington</i></p>
+  <p>We study the brain-wide circuits underlying perception cognition and action, 
+  using a variety of cutting-edge techniques including large-scale electrophysiology, calcium imaging, and optogenetics. 
+  Learn more about our research <a href="/about">here</a>.
+  <p>The Steinmetz Lab is hiring! If you are interested to <a href="/join">join us</a>, please get in touch.</p>
 
 hero_img: posts/sagittal_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
