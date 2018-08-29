@@ -26,8 +26,8 @@ navigation: # Navigation links
 
 tagline: >
   <p><i>at the University of Washington</i></p>
-  <p>We study the brain-wide circuits underlying perception, cognition, and action 
-  using a variety of cutting-edge techniques including large-scale electrophysiology, calcium imaging, and optogenetics. 
+  <p>We study distributed, brain-wide circuits underlying perception, cognition, and action 
+  using techniques including large-scale electrophysiology, calcium imaging, and optogenetics. 
   <p>Learn more about <a href="/about">our research</a> and see our <a href="/pubs">publications</a>.
   <p>The Steinmetz Lab is hiring! If you are interested to <a href="/join">join us</a>, please get in touch.</p>
 
