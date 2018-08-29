@@ -6,7 +6,7 @@ permalink: /join/
 
 <h2>The Steinmetz Lab is hiring!</h2>
 
-We are looking for curious, motivated, and talented individuals who are interested in joining a new lab focused on employing cutting-edge electrophysiological, imaging, and behavioral techniques to answer questions about the neural basis of cognition and beahvior. 
+We are looking for curious, motivated, and talented individuals who are interested in joining a new lab focused on employing cutting-edge electrophysiological, imaging, and behavioral techniques to answer questions about the neural basis of cognition and behavior. 
 
 <p> We are committed to making neuroscience a more open and inclusive field, so we encourage applications from individuals with unconventional backgrounds or from underrepresented groups.</p>
 
