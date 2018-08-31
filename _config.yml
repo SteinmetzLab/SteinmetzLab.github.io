@@ -29,7 +29,7 @@ tagline: >
   <p>We study distributed, brain-wide circuits underlying perception, cognition, and action 
   using techniques including large-scale electrophysiology, calcium imaging, and optogenetics. 
   <p>Learn more about <a href="/about">our research</a> and see our <a href="/pubs">publications</a>.
-  <p>The Steinmetz Lab is hiring! If you are interested to <a href="/join">join us</a>, please get in touch.</p>
+  <p>The Steinmetz Lab is hiring! If you are interested in <a href="/join">joining us</a>, please get in touch.</p>
 
 hero_img: posts/sagittal_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
