@@ -4,7 +4,7 @@ author: Nick Steinmetz # You :P
 description: > # Meta description of Homepage
   Neuroscience laboratory at University of Washington, Department of Biological Structure. PI Nick Steinmetz. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://steinmetzlab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.steinmetzlab.net/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -28,10 +28,10 @@ tagline: >
   <p><i>at the University of Washington</i></p>
   <p>We study distributed, brain-wide circuits underlying perception, cognition, and action 
   using techniques including large-scale electrophysiology, calcium imaging, and optogenetics. 
-  <p>Learn more about <a href="/about">our research</a> and see our <a href="/pubs">publications</a>.
+  <p>Learn more about <a href="/about">our research</a> and see our <a href="/pubs">publications</a>. We believe in open science; see our <a href="/shared">shared data and code</a>.
   <p>The Steinmetz Lab is hiring! If you are interested in <a href="/join">joining us</a>, please get in touch.</p>
 
-hero_img: posts/sagittal_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/coriCoronal1_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: nick.steinmetz@gmail.com # email for form submission
 
