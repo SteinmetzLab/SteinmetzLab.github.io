@@ -28,5 +28,5 @@ permalink: /shared/
 
 <h2>Hardware designs</h2>
 <ul>
-	<li><a href="https://www.ucl.ac.uk/cortexlab/tools/wheel">Wheel task</a>: hardware designs and software for deploying this task. </li>
+	<li><a href="https://www.ucl.ac.uk/cortexlab/tools/wheel">Wheel task</a>: hardware designs and software for deploying a behavioral task that we use. This resource was developed by the Carandini/Harris lab.</li>
 </ul>
