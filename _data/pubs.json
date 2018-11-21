@@ -2,6 +2,54 @@
 	"papers": [
 		{
 			"authors": [
+				"Steinmetz NA",
+				"Zatka-Haas P",
+				"Carandini M",
+				"Harris KD"
+			],
+			"authors_short": [
+				"Steinmetz",
+				"Zatka-Haas",
+				"Carandini",
+				"Harris"
+			],
+			"title": "Distributed correlates of visually-guided behavior across the mouse brain",
+			"year": "2018",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/early/2018/11/20/474437",
+			"tags": [
+				"preprint",
+				"neuropixels",
+				"population",
+				"behavior",
+				"vision",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
+				"Shamash P",
+				"Carandini M",
+				"Harris KD",
+				"Steinmetz NA"
+			],
+			"authors_short": [
+				"Shamash",
+				"Carandini",
+				"Harris",
+				"Steinmetz"
+			],
+			"title": "A tool for analyzing electrode tracks from slice histology",
+			"year": "2018",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/early/2018/10/19/447995",
+			"tags": [
+				"preprint",
+				"neuropixels"
+			]
+		},
+		{
+			"authors": [
 				"Stringer C*",
 				"Pachitariu P*",
 				"Steinmetz NA",
