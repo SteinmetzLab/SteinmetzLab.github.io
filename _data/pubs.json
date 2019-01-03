@@ -28,6 +28,60 @@
 		},
 		{
 			"authors": [
+				"Zatka-Haas P*",
+				"Steinmetz NA*",
+				"Carandini M",
+				"Harris KD"
+			],
+			"authors_short": [
+				"Zatka-Haas*",
+				"Steinmetz*",
+				"Carandini",
+				"Harris"
+			],
+			"title": "Distinct contributions of mouse cortical areas to visual discrimination",
+			"year": "2018",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/early/2018/12/21/501627",
+			"tags": [
+				"preprint",
+				"neuropixels",
+				"optogenetics",
+				"widefield",
+				"population",
+				"behavior",
+				"vision",
+				"cortex"
+			]
+		},
+		{
+			"authors": [
+				"Shimaoka D",
+				"Steinmetz NA",
+				"Harris KD",
+				"Carandini M"
+			],
+			"authors_short": [
+				"Shimaoka",
+				"Steinmetz",
+				"Harris",
+				"Carandini"
+			],
+			"title": "The impact of bilateral ongoing activity on evoked responses in mouse cortex",
+			"year": "2018",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/early/2018/11/22/476333",
+			"tags": [
+				"preprint",
+				"widefield",
+				"population",
+				"behavior",
+				"vision",
+				"cortex"
+			]
+		},
+		{
+			"authors": [
 				"Shamash P",
 				"Carandini M",
 				"Harris KD",
