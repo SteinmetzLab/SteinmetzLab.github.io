@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-<h2> Starting January 2019 </h2>
-
 <br>Lab I-534
 <br>Department of Biological Structure
 <br>University of Washington
