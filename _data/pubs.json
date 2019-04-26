@@ -68,11 +68,11 @@
 				"Carandini"
 			],
 			"title": "The impact of bilateral ongoing activity on evoked responses in mouse cortex",
-			"year": "2018",
-			"journal": "bioRxiv",
+			"year": "2019",
+			"journal": "eLife (in press)",
 			"link": "https://www.biorxiv.org/content/early/2018/11/22/476333",
 			"tags": [
-				"preprint",
+				"peerReview",
 				"widefield",
 				"population",
 				"behavior",
@@ -133,15 +133,17 @@
 				"Stringer C*",
 				"Pachitariu P*",
 				"Steinmetz NA",
+				"Reddy CB",
 				"Carandini M",
 				"Harris KD"
 			],
 			"title": "Spontaneous behaviors drive multidimensional, brain-wide population activity",
-			"year": "2018",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/early/2018/04/22/306019",
+			"year": "2019",
+			"journal": "Science",
+			"link": "https://science.sciencemag.org/content/364/6437/eaav7893",
+			"pdflink": "Stringer et al. - 2019 - Science.pdf"
 			"tags": [
-				"preprint",
+				"peerReview",
 				"neuropixels",
 				"population",
 				"behavior",
@@ -151,6 +153,7 @@
 				"Stringer*",
 				"Pachitariu*",
 				"Steinmetz",
+				"Reddy",
 				"Carandini",
 				"Harris"
 			]
@@ -192,6 +195,7 @@
 			"year": "2019",
 			"journal": "Cerebral Cortex",
 			"link": "https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhz023/5364043",
+			"pdflink": "Okun et al - 2019 - Cerebral Cortex.pdf",
 			"tags": [
 				"peerReview",
 				"neuropixels",
