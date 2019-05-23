@@ -56,6 +56,41 @@
 		},
 		{
 			"authors": [
+				"Schroeder S",
+				"Steinmetz NA",
+				"Krumin M",
+				"Pachitariu M",
+				"Rizzi M",
+				"Lagnado L",
+				"Harris KD",
+				"Carandini M"
+			],
+			"authors_short": [
+				"Schroeder",
+				"Steinmetz",
+				"Krumin",
+				"Pachitariu",
+				"Rizzi",
+				"Lagnado"
+				"Harris",
+				"Carandini"
+			],
+			"title": "Retinal outputs depend on behavioural state",
+			"year": "2019",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/638049",
+			"tags": [
+				"preprint",
+				"neuropixels",
+				"optogenetics",
+				"behavior",
+				"vision",
+				"cortex",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Shimaoka D",
 				"Steinmetz NA",
 				"Harris KD",
@@ -68,11 +103,11 @@
 				"Carandini"
 			],
 			"title": "The impact of bilateral ongoing activity on evoked responses in mouse cortex",
-			"year": "2018",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/early/2018/11/22/476333",
+			"year": "2019",
+			"journal": "eLife",
+			"link": "https://elifesciences.org/articles/43533",
 			"tags": [
-				"preprint",
+				"peerReview",
 				"widefield",
 				"population",
 				"behavior",
@@ -133,15 +168,16 @@
 				"Stringer C*",
 				"Pachitariu P*",
 				"Steinmetz NA",
+				"Reddy CB",
 				"Carandini M",
 				"Harris KD"
 			],
 			"title": "Spontaneous behaviors drive multidimensional, brain-wide population activity",
-			"year": "2018",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/early/2018/04/22/306019",
+			"year": "2019",
+			"journal": "Science",
+			"link": "https://science.sciencemag.org/content/364/6437/eaav7893",
 			"tags": [
-				"preprint",
+				"peerReview",
 				"neuropixels",
 				"population",
 				"behavior",
@@ -151,6 +187,7 @@
 				"Stringer*",
 				"Pachitariu*",
 				"Steinmetz",
+				"Reddy",
 				"Carandini",
 				"Harris"
 			]
