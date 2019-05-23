@@ -2,6 +2,41 @@
 	"papers": [
 		{
 			"authors": [
+				"Schroeder S",
+				"Steinmetz NA",
+				"Krumin M",
+				"Pachitariu M",
+				"Rizzi M",
+				"Lagnado L",
+				"Harris KD",
+				"Carandini M"
+			],
+			"authors_short": [
+				"Schroeder",
+				"Steinmetz",
+				"Krumin",
+				"Pachitariu",
+				"Rizzi",
+				"Lagnado",
+				"Harris",
+				"Carandini"
+			],
+			"title": "Retinal outputs depend on behavioural state",
+			"year": "2019",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/638049",
+			"tags": [
+				"preprint",
+				"neuropixels",
+				"optogenetics",
+				"behavior",
+				"vision",
+				"cortex",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Steinmetz NA",
 				"Zatka-Haas P",
 				"Carandini M",
@@ -52,41 +87,6 @@
 				"behavior",
 				"vision",
 				"cortex"
-			]
-		},
-		{
-			"authors": [
-				"Schroeder S",
-				"Steinmetz NA",
-				"Krumin M",
-				"Pachitariu M",
-				"Rizzi M",
-				"Lagnado L",
-				"Harris KD",
-				"Carandini M"
-			],
-			"authors_short": [
-				"Schroeder",
-				"Steinmetz",
-				"Krumin",
-				"Pachitariu",
-				"Rizzi",
-				"Lagnado",
-				"Harris",
-				"Carandini"
-			],
-			"title": "Retinal outputs depend on behavioural state",
-			"year": "2019",
-			"journal": "bioRxiv",
-			"link": "https://doi.org/10.1101/638049",
-			"tags": [
-				"preprint",
-				"neuropixels",
-				"optogenetics",
-				"behavior",
-				"vision",
-				"cortex",
-				"brainwide"
 			]
 		},
 		{

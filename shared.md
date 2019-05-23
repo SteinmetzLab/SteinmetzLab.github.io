@@ -12,12 +12,12 @@ permalink: /shared/
 <h2>Neuropixels</h2>
 <ul>
 	<li><a href="http://neuropix.cortexlab.net">Wiki and user forum</a> for practical details of using Neuropixels probes. </li>
-	<li><a href="http://www.ucl.ac.uk/neuropixels/courses/2018-course">Training course</a> on the use of Neuropixels probes.</li>
+	<li><a href="http://www.ucl.ac.uk/neuropixels/courses/2019-course">Training course</a> on the use of Neuropixels probes (see wiki for others).</li>
 </ul>
 
 <h2>Code</h2>
 <ul>
-	<li><a href="https://github.com/cortex-lab/kilosort">"Kilosort"</a>, a tool for faster and more accurate spike sorting, designed for very large datasets. Developed primarily by Marius Pachitariu.</li>
+	<li><a href="https://github.com/MouseLand/kilosort2">"Kilosort2"</a>, a tool for faster and more accurate spike sorting, designed for very large datasets. Developed primarily by Marius Pachitariu.</li>
 	<li><a href="https://github.com/kwikteam/phy">"Phy"</a>, a graphical user interface for manual-stage spike sorting, also designed for very large datasets. Developed primarily by Cyrille Rossant.</li>			
 	<li><a href="https://github.com/cortex-lab/spikes">"Spikes"</a>, code for performing many basic analyses of spike trains in Matlab.</li>
 	<li><a href="https://github.com/cortex-lab/sortingQuality">"sortingQuality"</a>, code for assessing the quality of spike-sorted neurons.</li>
