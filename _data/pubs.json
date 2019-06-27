@@ -91,32 +91,6 @@
 		},
 		{
 			"authors": [
-				"Shimaoka D",
-				"Steinmetz NA",
-				"Harris KD",
-				"Carandini M"
-			],
-			"authors_short": [
-				"Shimaoka",
-				"Steinmetz",
-				"Harris",
-				"Carandini"
-			],
-			"title": "The impact of bilateral ongoing activity on evoked responses in mouse cortex",
-			"year": "2019",
-			"journal": "eLife",
-			"link": "https://elifesciences.org/articles/43533",
-			"tags": [
-				"peerReview",
-				"widefield",
-				"population",
-				"behavior",
-				"vision",
-				"cortex"
-			]
-		},
-		{
-			"authors": [
 				"Shamash P",
 				"Carandini M",
 				"Harris KD",
@@ -153,11 +127,11 @@
 				"Harris"
 			],
 			"title": "High-dimensional geometry of population responses in visual cortex",
-			"year": "2018",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/early/2018/07/22/374090",
+			"year": "2019",
+			"journal": "Nature",
+			"link": "https://www.nature.com/articles/s41586-019-1346-5",
 			"tags": [
-				"preprint",
+				"peerReview",
 				"neuropixels",
 				"population",
 				"vision"
@@ -191,6 +165,32 @@
 				"Reddy",
 				"Carandini",
 				"Harris"
+			]
+		},
+		{
+			"authors": [
+				"Shimaoka D",
+				"Steinmetz NA",
+				"Harris KD",
+				"Carandini M"
+			],
+			"authors_short": [
+				"Shimaoka",
+				"Steinmetz",
+				"Harris",
+				"Carandini"
+			],
+			"title": "The impact of bilateral ongoing activity on evoked responses in mouse cortex",
+			"year": "2019",
+			"journal": "eLife",
+			"link": "https://elifesciences.org/articles/43533",
+			"tags": [
+				"peerReview",
+				"widefield",
+				"population",
+				"behavior",
+				"vision",
+				"cortex"
 			]
 		},
 		{
