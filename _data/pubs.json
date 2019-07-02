@@ -130,6 +130,7 @@
 			"year": "2019",
 			"journal": "Nature",
 			"link": "https://www.nature.com/articles/s41586-019-1346-5",
+			"pdflink": "Stringer et al - 2019 - Nature.pdf",
 			"tags": [
 				"peerReview",
 				"neuropixels",
@@ -184,6 +185,7 @@
 			"year": "2019",
 			"journal": "eLife",
 			"link": "https://elifesciences.org/articles/43533",
+			"pdflink": "Shimaoka et al - 2019 - eLife.pdf",
 			"tags": [
 				"peerReview",
 				"widefield",
@@ -254,10 +256,11 @@
 			],
 			"title": "Laminar Segregation of Sensory Coding and Behavioral Readout in Macaque V4",
 			"year": "2018",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/early/2018/08/29/399626",
+			"journal": "PNAS",
+			"link": "https://www.pnas.org/content/early/2019/06/26/1819398116.short",
+			"pdflink": "Pettine et al - 2019 - PNAS.pdf",
 			"tags": [
-				"preprint",
+				"peerReview",
 				"vision",
 				"microcircuits",
 				"behavior",
