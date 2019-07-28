@@ -2,6 +2,33 @@
 	"papers": [
 		{
 			"authors": [
+				"Peters A",
+				"Steinmetz NA",
+				"Harris KD",
+				"Carandini M"
+			],
+			"authors_short": [
+				"Peters",
+				"Steinmetz",
+				"Harris",
+				"Carandini"
+			],
+			"title": "Striatal activity reflects cortical activity patterns",
+			"year": "2019",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/703710v1",
+			"tags": [
+				"preprint",
+				"neuropixels",
+				"widefield",
+				"behavior",
+				"vision",
+				"cortex",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Schroeder S",
 				"Steinmetz NA",
 				"Krumin M",
