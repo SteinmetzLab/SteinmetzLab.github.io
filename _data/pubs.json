@@ -669,6 +669,45 @@
 		},
 		{
 			"authors": [
+				"Squire RF*",
+				"Steinmetz NA*",
+				"Moore T"
+			],
+			"title": "Frontal Eye Fields",
+			"year": "2012",
+			"journal": "Scholarpedia",
+			"link": "http://www.scholarpedia.org/article/Frontal_eye_field",
+			"tags": [
+				"review",
+				"attention"
+			],
+			"authors_short": [
+				"Squire*",
+				"Steinmetz*",
+				"Moore"
+			]
+		},
+		{
+			"authors": [
+				"Steinmetz NA",
+				"Moore T"
+			],
+			"title": "Lumping and splitting the neural circuitry of visual attention",
+			"year": "2012",
+			"journal": "Neuron",
+			"link": "https://www.ncbi.nlm.nih.gov/pubmed/22325195",
+			"pdflink": "Steinmetz, Moore - 2012 - Lumping and splitting the neural circuitry of visual attention.pdf",
+			"tags": [
+				"commentary",
+				"attention"
+			],
+			"authors_short": [
+				"Steinmetz",
+				"Moore"
+			]
+		},
+		{
+			"authors": [
 				"Steinmetz NA",
 				"Moore T"
 			],
@@ -685,6 +724,29 @@
 				"dynamics"
 			],
 			"authors_short": [
+				"Steinmetz",
+				"Moore"
+			]
+		},
+		{
+			"authors": [
+				"Noudoost B",
+				"Chang MH",
+				"Steinmetz NA",
+				"Moore T"
+			],
+			"title": "Top-down control of visual attention",
+			"year": "2010",
+			"journal": "Current Opinion in Neurobiology",
+			"link": "https://www.ncbi.nlm.nih.gov/pubmed/20303256",
+			"pdflink": "Noudoost et al. - 2010 - Top-down control of visual attention.pdf",
+			"tags": [
+				"review",
+				"attention"
+			],
+			"authors_short": [
+				"Noudoost",
+				"Chang",
 				"Steinmetz",
 				"Moore"
 			]
@@ -826,68 +888,6 @@
 				"Steinmetz",
 				"...",
 				"Frank"
-			]
-		},
-		{
-			"authors": [
-				"Squire RF*",
-				"Steinmetz NA*",
-				"Moore T"
-			],
-			"title": "Frontal Eye Fields",
-			"year": "2012",
-			"journal": "Scholarpedia",
-			"link": "http://www.scholarpedia.org/article/Frontal_eye_field",
-			"tags": [
-				"review",
-				"attention"
-			],
-			"authors_short": [
-				"Squire*",
-				"Steinmetz*",
-				"Moore"
-			]
-		},
-		{
-			"authors": [
-				"Steinmetz NA",
-				"Moore T"
-			],
-			"title": "Lumping and splitting the neural circuitry of visual attention",
-			"year": "2012",
-			"journal": "Neuron",
-			"link": "https://www.ncbi.nlm.nih.gov/pubmed/22325195",
-			"pdflink": "Steinmetz, Moore - 2012 - Lumping and splitting the neural circuitry of visual attention.pdf",
-			"tags": [
-				"commentary",
-				"attention"
-			],
-			"authors_short": [
-				"Steinmetz",
-				"Moore"
-			]
-		},
-		{
-			"authors": [
-				"Noudoost B",
-				"Chang MH",
-				"Steinmetz NA",
-				"Moore T"
-			],
-			"title": "Top-down control of visual attention",
-			"year": "2010",
-			"journal": "Current Opinion in Neurobiology",
-			"link": "https://www.ncbi.nlm.nih.gov/pubmed/20303256",
-			"pdflink": "Noudoost et al. - 2010 - Top-down control of visual attention.pdf",
-			"tags": [
-				"review",
-				"attention"
-			],
-			"authors_short": [
-				"Noudoost",
-				"Chang",
-				"Steinmetz",
-				"Moore"
 			]
 		}
 	]
