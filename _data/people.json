@@ -9,7 +9,31 @@
 		{
 			"name": "Adam Davis",
 			"role": "Research Scientist & Lab Manager",
-			"img": "adam",
+			"img": "Adam",
+			"url": ""
+		},
+		{
+			"name": "Hailey Barrell",
+			"role": "Undergraduate Scientist",
+			"img": "Hailey",
+			"url": ""
+		},
+		{
+			"name": "Sameer Apdalhaliem",
+			"role": "Undergraduate Scientist",
+			"img": "Sameer",
+			"url": ""
+		},
+		{
+			"name": "Renee Wang",
+			"role": "Undergraduate Scientist",
+			"img": "Renee",
+			"url": ""
+		},
+		{
+			"name": "Saghar Mirbagheri",
+			"role": "Research Scientist",
+			"img": "Saghar",
 			"url": ""
 		},
 		{

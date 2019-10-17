@@ -2,6 +2,27 @@
 	"papers": [
 		{
 			"authors": [
+				"Engel T",
+				"Steinmetz NA"
+			],
+			"authors_short": [
+				"Engel",
+				"Steinmetz"
+			],
+			"title": "New perspectives on dimensionality and variability from large-scale cortical dynamics",
+			"year": "2019",
+			"journal": "Current Opinion in Neurobiology",
+			"link": "https://doi.org/10.1016/j.conb.2019.09.003",
+			"tags": [
+				"review",
+				"widefield",
+				"behavior",
+				"cortex",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Peters A",
 				"Steinmetz NA",
 				"Harris KD",
