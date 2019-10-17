@@ -38,10 +38,6 @@ layout: compress
 		<ul>
 	  	{% for paper in pubs.papers %}
 			{% include paper.html %}
-			{% if paper.tags contains "preprint" %}
-				<i>[Preprint]</i>
-			{% endif %}
-			<br>&nbsp
 		{% endfor %}
 		</ul>
 		  

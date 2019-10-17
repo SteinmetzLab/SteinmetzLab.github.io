@@ -7,5 +7,14 @@
 	// <a href="{{site.baseurl}}/assets/img/{{paper.pdflink}}">[PDF]</a>
 	{% endif %}
 	<br><i>{{paper.journal}}</i>. {{paper.year}}
+	{% if paper.tags contains "preprint" %}
+		<i> [Preprint]</i>
+	{% endif %}
+	{% if paper.tags contains "review" %}
+		<i> [Review]</i>
+	{% endif %}
+	{% if paper.tags contains "commentary" %}
+		<i> [Commentary]</i>
+	{% endif %}
 	<br>&nbsp
 </li>
