@@ -6,10 +6,14 @@ permalink: /shared/
 
 <h2>Datasets</h2>
 <ul>
-	<li><a href="http://data.cortexlab.net">Datasets</a> recorded with Neuropixels probes.</li>
+	<li><a href="https://figshare.com/articles/steinmetz/9598406">Neuropixels recordings during visual discrimination</a> from Steinmetz et al 2019.</li>
+	<li><a href="https://figshare.com/articles/steinmetz/9974357">Neuropixels recordings during visual discrimination</a> from Steinmetz et al 2019, accessible via the Open Neurophysiology Environment (ONE) interface.</li>
+	<li><a href="https://figshare.com/articles/Eight-probe_Neuropixels_recordings_during_spontaneous_behaviors/7739750">Recordings with eight Neuropixels simultaneously during spontaneous behavior</a> from <a href="https://science.sciencemag.org/content/364/6437/eaav7893">Stringer, Pachitariu, et al 2019</a>.</li>
+	<li><a href="http://data.cortexlab.net/singlePhase3/">An example dataset</a> recorded with a Neuropixels probe, with original raw data available.</li>
+	<li><a href="http://data.cortexlab.net/dualPhase3/">An example dataset</a> recorded with two Neuropixels probes, from <a href="https://www.nature.com/articles/nature24636">Jun, Steinmetz, Siegle, Denman, Bauza, Barbarits, Lee, et al 2017</a>.</li>	
 </ul>
 
-<h2>Neuropixels</h2>
+<h2>Neuropixels resources</h2>
 <ul>
 	<li><a href="http://neuropix.cortexlab.net">Wiki and user forum</a> for practical details of using Neuropixels probes. </li>
 	<li><a href="http://www.ucl.ac.uk/neuropixels/courses/2019-course">Training course</a> on the use of Neuropixels probes (see wiki for others).</li>
@@ -18,7 +22,7 @@ permalink: /shared/
 <h2>Code</h2>
 <ul>
 	<li><a href="https://github.com/MouseLand/kilosort2">"Kilosort2"</a>, a tool for faster and more accurate spike sorting, designed for very large datasets. Developed primarily by Marius Pachitariu.</li>
-	<li><a href="https://github.com/kwikteam/phy">"Phy"</a>, a graphical user interface for manual-stage spike sorting, also designed for very large datasets. Developed primarily by Cyrille Rossant.</li>			
+	<li><a href="https://github.com/cortex-lab/phy">"Phy"</a>, a graphical user interface for manual-stage spike sorting, also designed for very large datasets. Developed primarily by Cyrille Rossant.</li>			
 	<li><a href="https://github.com/cortex-lab/spikes">"Spikes"</a>, code for performing many basic analyses of spike trains in Matlab.</li>
 	<li><a href="https://github.com/cortex-lab/sortingQuality">"sortingQuality"</a>, code for assessing the quality of spike-sorted neurons.</li>
 	<li><a href="https://github.com/cortex-lab/widefield">"Widefield"</a>, code and GUIs for analyzing widefield calcium imaging data in Matlab.</li>
