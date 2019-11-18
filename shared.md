@@ -6,8 +6,7 @@ permalink: /shared/
 
 <h2>Datasets</h2>
 <ul>
-	<li><a href="https://figshare.com/articles/steinmetz/9598406">Neuropixels recordings during visual discrimination</a> from Steinmetz et al 2019.</li>
-	<li><a href="https://figshare.com/articles/steinmetz/9974357">Neuropixels recordings during visual discrimination</a> from Steinmetz et al 2019, accessible via the Open Neurophysiology Environment (ONE) interface.</li>
+	<li><a href="https://figshare.com/articles/steinmetz/9598406">Neuropixels recordings during visual discrimination</a> from Steinmetz et al 2019. Also accessible via the Open Neurophysiology Environment (ONE) interface <a href="https://figshare.com/articles/steinmetz/9974357">here</a>.</li>
 	<li><a href="https://figshare.com/articles/Eight-probe_Neuropixels_recordings_during_spontaneous_behaviors/7739750">Recordings with eight Neuropixels simultaneously during spontaneous behavior</a> from <a href="https://science.sciencemag.org/content/364/6437/eaav7893">Stringer, Pachitariu, et al 2019</a>.</li>
 	<li><a href="http://data.cortexlab.net/singlePhase3/">An example dataset</a> recorded with a Neuropixels probe, with original raw data available.</li>
 	<li><a href="http://data.cortexlab.net/dualPhase3/">An example dataset</a> recorded with two Neuropixels probes, from <a href="https://www.nature.com/articles/nature24636">Jun, Steinmetz, Siegle, Denman, Bauza, Barbarits, Lee, et al 2017</a>.</li>	
