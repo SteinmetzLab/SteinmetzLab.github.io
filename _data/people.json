@@ -7,9 +7,33 @@
 			"url": "http://www.nicksteinmetz.com"
 		},
 		{
-			"name": "Adam Davis",
-			"role": "Research Scientist & Lab Manager",
-			"img": "adam",
+			"name": "Zhiwen Ye",
+			"role": "Postdoctoral Scientist",
+			"img": "",
+			"url": ""
+		},
+		{
+			"name": "Noam Roth",
+			"role": "Postdoctoral Scientist",
+			"img": "",
+			"url": ""
+		},
+		{
+			"name": "Dan Birman",
+			"role": "Postdoctoral Scientist",
+			"img": "",
+			"url": ""
+		},
+		{
+			"name": "Saghar Mirbagheri",
+			"role": "Research Scientist",
+			"img": "Saghar",
+			"url": ""
+		},
+		{
+			"name": "Haili Adams",
+			"role": "Research Scientist",
+			"img": "",
 			"url": ""
 		},
 		{
@@ -29,17 +53,6 @@
 			"role": "Undergraduate Scientist",
 			"img": "Renee",
 			"url": ""
-		},
-		{
-			"name": "Saghar Mirbagheri",
-			"role": "Research Scientist",
-			"img": "Saghar",
-			"url": ""
-		},
-		{
-			"name": "You?",
-			"role": "The Steinmetz lab is hiring! Click for more.",
-			"url": "/join"
 		}
 	]
 }
