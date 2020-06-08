@@ -37,15 +37,15 @@ layout: compress
 
       {% for year in years %}
       <h2>{{ year }}</h2>h2>
-{% endfor %}
-      <!-- {% assign papers = pubs.papers | where  %} -->
+
+      {% assign papers = pubs.papers | where_exp:"item", "item.year == year" %} 
 		<ul>
-	  	{% for paper in  %}
+	  	{% for paper in  papers %}
 			{% include paper.html %}
 		{% endfor %}
 		</ul>
     
-		  
+		  {% endfor %}
 		  	
 
 		</div>
