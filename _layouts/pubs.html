@@ -36,7 +36,7 @@ layout: compress
 		  {% assign years = "2020, 2019, 2018, 2017" | split: ", " %}
 
       {% for year in years %}
-      <h2>{{ year }}</h2>h2>
+      <p><h2>{{ year }}</h2>
 
       {% assign papers = pubs.papers | where_exp:"item", "item.year == year" %} 
 		<ul>
