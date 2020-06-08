@@ -33,7 +33,11 @@ layout: compress
         <div class="page-content">
 
 			{% assign pubs = site.data.pubs %}
-		  
+		  {% assign years = "2020, 2019, 2018, 2017" | split: ", " %}
+
+      {% for year in years %}
+      year
+      {% endfor %}
 		<ul>
 	  	{% for paper in pubs.papers %}
 			{% include paper.html %}
