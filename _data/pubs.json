@@ -91,6 +91,62 @@
 		},
 		{
 			"authors": [
+				"Van Kempen J",
+				"Gieselmann MA",
+				"Boyd M", 
+				"Steinmetz NA",
+				"Moore T",
+				"Engel TA", 
+				"Thiele A"
+			],
+			"authors_short": [
+				"Van Kempen",
+				"Gieselmann",
+				"Boyd", 
+				"Steinmetz NA",
+				"Moore",
+				"Engel", 
+				"Thiele"
+			],
+			"title": "Top-down coordination of local cortical state during selective attention",
+			"year": "2020",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2020.03.26.009365v1",
+			"tags": [
+				"preprint",
+				"selected",
+				"attention", 
+				"dynamics", 
+				"vision", 
+				"behavior"
+			]
+		},
+		{
+			"authors": [
+				"Dimitriadis G",
+				"Neto J",
+				"...",
+				"Steinmetz NA",
+				"et al."
+			],
+			"authors_short": [
+				"Dimitriadis",
+				"Neto", 
+				"...",
+				"Steinmetz",
+				"et al."
+			],
+			"title": "Why not record from every electrode with a CMOS scanning probe?",
+			"year": "2020",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/275818v8",
+			"tags": [
+				"preprint",
+				"neuropixels"
+			]
+		},
+		{
+			"authors": [
 				"Steinmetz NA",
 				"Zatka-Haas P",
 				"Carandini M",
