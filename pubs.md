@@ -1,6 +1,6 @@
 ---
 layout: pubs
-title: Publications
+title: Selected Publications
 permalink: /pubs/
 ---
 

@@ -22,8 +22,6 @@ layout: compress
     <div class="hero--small">
       <div class="hero__wrap">
         <h1 class="hero__title">{{ page.title }}</h1>
-        For a list of all publications, <a href="all_pubs.html">click here</a>.
-
       </div>
     </div>
 
@@ -43,9 +41,7 @@ layout: compress
           {% assign papers = pubs.papers | where_exp:"item", "item.year == year" %} 
           <ul>
             {% for paper in  papers %}
-              {% if paper.tags contains "selected" %}
-                {% include paper.html %}
-              {% endif %}
+            {% include paper.html %}
             {% endfor %}
           </ul>
 
