@@ -324,6 +324,7 @@
 			"pdflink": "Pettine et al - 2019 - PNAS.pdf",
 			"tags": [
 				"peerReview",
+				"selected",
 				"vision",
 				"microcircuits",
 				"behavior",
@@ -355,6 +356,7 @@
 			"link": "https://www.biorxiv.org/content/10.1101/703710v1",
 			"tags": [
 				"preprint",
+				"selected",
 				"neuropixels",
 				"widefield",
 				"behavior",
@@ -599,6 +601,7 @@
 			"pdflink": "Stringer et al. - 2016 - Inhibitory control of correlated intrinsic variability in cortical networks.pdf",
 			"tags": [
 				"peerReview",
+				"selected",
 				"dynamics"
 			],
 			"authors_short": [
@@ -627,6 +630,7 @@
 			"pdflink": "Pachitariu et al. - 2016 - Fast and accurate spike sorting of high-channel count probes with KiloSort.pdf",
 			"tags": [
 				"peerReview",
+				"selected",
 				"methods",
 				"neuropixels"
 			],
