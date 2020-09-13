@@ -22,6 +22,12 @@ if thisRatio>desRatio % too wide, need to add rows
     idx = floor((desRows-size(img,1))/2);
     tempimg(idx:idx+size(img,1)-1,:,:) = img; 
     img = tempimg;
+elseif thisRatio<desRatio % too tall, need to add columns
+    desCols = ceil(size(img,1)*desRatio);
+    tempimg = repmat(bckgcolor, size(img,1), desCols, 1);
+    idx = floor((desCols-size(img,2))/2);
+    tempimg(:,idx:idx+size(img,2)-1,:) = img; 
+    img = tempimg;
 end
 
 %%
