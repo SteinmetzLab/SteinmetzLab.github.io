@@ -39,6 +39,31 @@
 		},
 		{
 			"authors": [
+				"Jacobs EAK",
+				"Steinmetz NA",
+				"Carandini M",
+				"Harris KD"
+			],
+			"title": "Cortical state fluctuations during sensory decision making",
+			"year": "2020",
+			"journal": "Current Biology (in press)",
+			"link": "https://www.biorxiv.org/content/early/2018/06/16/348193",
+			"tags": [
+				"peerReview",
+				"widefield",
+				"dynamics",
+				"behavior",
+				"brainwide"
+			],
+			"authors_short": [
+				"Jacobs",
+				"Steinmetz",
+				"Carandini",
+				"Harris"
+			]
+		},
+		{
+			"authors": [
 				"Zatka-Haas P*",
 				"Steinmetz NA*",
 				"Carandini M",
@@ -87,6 +112,36 @@
 				"preprint",
 				"selected",
 				"IBL"
+			]
+		},
+		{
+			"authors": [
+				"Shi Y-L",
+				"Steinmetz NA",
+				"Moore T",
+				"Boahen K",
+				"Engel TA"
+			],
+			"authors_short": [
+				"Shi",
+				"Steinmetz",
+				"Moore",
+				"Boahen",
+				"Engel"
+			],
+			"title": "Influence of On-Off dynamics and selective attention on the spatial pattern of correlated variability in neocortex",
+			"year": "2020",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2020.09.02.279893v1",
+			"tags": [
+				"preprint",
+				"selected",
+				"vision",
+				"cortex",
+				"population",
+				"behavior",
+				"attention",
+				"dynamics"
 			]
 		},
 		{
@@ -409,31 +464,6 @@
 			"tags": [
 				"preprint",
 				"neuropixels"
-			]
-		},
-		{
-			"authors": [
-				"Jacobs EAK",
-				"Steinmetz NA",
-				"Carandini M",
-				"Harris KD"
-			],
-			"title": "Cortical state fluctuations during sensory decision making",
-			"year": "2018",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/early/2018/06/16/348193",
-			"tags": [
-				"preprint",
-				"widefield",
-				"dynamics",
-				"behavior",
-				"brainwide"
-			],
-			"authors_short": [
-				"Jacobs",
-				"Steinmetz",
-				"Carandini",
-				"Harris"
 			]
 		},
 		{
