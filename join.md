@@ -14,7 +14,7 @@ We are looking for curious, motivated, and talented individuals who are interest
 
 If you like asking hard questions, making things work, and pursuing creative ideas with state-of-the-art tools then this lab may be for you. Prior experience with neurophysiology and advanced data analysis are desirable. Informal inquiries welcome to nick.steinmetz@gmail.com. 
 
-<p> A position specifically for a computationally-focused post-doc on the "Neuropixels Ultra" project is available - read more <a href="/npultra_pd/">here</a>.
+<p><br> A position specifically for a computationally-focused post-doc on the "Neuropixels Ultra" project is available - read more <a href="/npultra_pd/">here</a>.
 
 <p><h3>Research technician / laboratory manager</h3>
 
