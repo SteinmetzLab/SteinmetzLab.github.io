@@ -12,7 +12,7 @@ permalink: /npultra_pd/
 
 <p>The Steinmetz Lab is committed to making neuroscience a more open and inclusive field, so we strongly encourage applications from individuals with non-traditional backgrounds or from underrepresented groups. See our statement on diversity in science <a href="/dei/">here</a>. 
 
-<p>To apply, please send a CV and a brief statement of your background and interest in the position to Nick Steinmetz at nick.steinmetz@gmail.com. Informal inquiries are welcome - please get in touch if you would like more information! We aim to start this position as soon as possible so please be in touch by Friday Aug 21.
+<p>To apply, please send a CV and a brief statement of your background and interest in the position to Nick Steinmetz at nick.steinmetz@gmail.com. Informal inquiries are welcome - please get in touch if you would like more information! 
 
 
 
