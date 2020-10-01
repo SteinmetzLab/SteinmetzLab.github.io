@@ -5,11 +5,15 @@ permalink: /contact/
 ---
 
 
-<br>HSB I-534
+<p>Health Sciences Building, Lab I-534
 <br>Department of Biological Structure
 <br>University of Washington
-<br>1959 NE Pacific St.
-<br>Seattle, WA 98195
+
+<p> <i>Mailing address: </i>
+<br> HSB G-520
+<br> Box 357420
+<br> 1959 NE Pacific St.
+<br> Seattle, WA 98195-7420
 
 <p> 206-685-0960
 
