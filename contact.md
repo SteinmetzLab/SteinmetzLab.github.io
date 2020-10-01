@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 
-<br>Lab I-534
+<br>HSB I-534
 <br>Department of Biological Structure
 <br>University of Washington
 <br>1959 NE Pacific St.
