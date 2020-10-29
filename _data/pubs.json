@@ -2,6 +2,34 @@
 	"papers": [
 		{
 			"authors": [
+				"Steinmetz NA*",
+				"Aydin C*",
+				"Lebedeva A*",
+				"Okun M*",
+				"Pachitariu M*",
+				"et al."
+			],
+			"authors_short": [
+				"Steinmetz*",
+				"Aydin*",
+				"Lebedeva*",
+				"Okun*",
+				"Pachitariu*",
+				"et al."
+			],
+			"title": "Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain recordings",
+			"year": "2020",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2020.10.27.358291v1",
+			"tags": [
+				"preprint",
+				"selected",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Schroeder S",
 				"Steinmetz NA",
 				"Krumin M",
