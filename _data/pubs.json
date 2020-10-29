@@ -75,8 +75,8 @@
 			],
 			"title": "Cortical state fluctuations during sensory decision making",
 			"year": "2020",
-			"journal": "Current Biology (in press)",
-			"link": "https://www.biorxiv.org/content/early/2018/06/16/348193",
+			"journal": "Current Biology",
+			"link": "https://doi.org/10.1016/j.cub.2020.09.067",
 			"tags": [
 				"peerReview",
 				"widefield",
@@ -204,6 +204,33 @@
 				"dynamics", 
 				"vision", 
 				"behavior"
+			]
+		},
+{
+			"authors": [
+				"Linden N",
+				"Tabuena D",
+				"Steinmetz NA", 
+				"Moody W",
+				"Brunton S",
+				"Brunton B"
+			],
+			"authors_short": [
+				"Linden",
+				"Tabuena",
+				"Steinmetz", 
+				"Moody",
+				"Brunton S",
+				"Brunton B"
+			],
+			"title": "Go with the FLOW: Visualizing spatiotemporal dynamics in optical widefield calcium imaging",
+			"year": "2020",
+			"journal": "arXiv",
+			"link": "https://arxiv.org/abs/2009.14283",
+			"tags": [
+				"preprint",
+				"widefield", 
+				"dynamics"
 			]
 		},
 		{
