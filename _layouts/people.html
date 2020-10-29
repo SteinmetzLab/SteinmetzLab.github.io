@@ -36,14 +36,19 @@ layout: compress
               {% endif %}
             {% endfor %}
 
-            <h2>Alumni</h2><p><p>
+            
+
+         </div>
+
+          <h2>Alumni</h2><br><br>
+            {% assign people = site.data.people.person %}
+
             {% for person in people %}
               {% if person.status == "alumni" %}
-                <p>{{ person.name }} ({{ person.years }})
+                <br>{{ person.name }} ({{ person.years }})
               {% endif %}
             {% endfor %}
 
-         </div>
        </div>
      </section>
    </main>
