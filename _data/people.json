@@ -4,66 +4,91 @@
 			"name": "Nick Steinmetz",
 			"role": "Principal Investigator",
 			"img": "nick",
+			"status": "active",
 			"url": "http://www.nicksteinmetz.com"
 		},
 		{
 			"name": "Zhiwen Ye",
 			"role": "Postdoctoral Scientist",
 			"img": "Zhiwen",
+			"status": "active",
 			"url": "https://www.yezhiwen.com/"
 		},
 		{
 			"name": "Noam Roth",
 			"role": "Postdoctoral Scientist",
 			"img": "Noam",
+			"status": "active",
 			"url": ""
 		},
 		{
 			"name": "Dan Birman",
 			"role": "Postdoctoral Scientist",
 			"img": "Dan",
+			"status": "active",
 			"url": "https://danbirman.com/"
 		},
 		{
 			"name": "David Ottenheimer",
 			"role": "Postdoctoral Scientist, joint with Stuber Lab",
 			"img": "David",
+			"status": "active",
 			"url": "https://davidottenheimer.com/"
 		},
 		{
 			"name": "Saghar Mirbagheri",
 			"role": "Research Scientist",
 			"img": "Saghar",
+			"status": "active",
 			"url": "https://scholar.google.com/citations?user=5Jph4ToAAAAJ&hl=en"
 		},
 		{
 			"name": "Haili Adams",
 			"role": "Research Scientist",
 			"img": "Haili",
+			"status": "active",
 			"url": ""
 		},
 		{
 			"name": "Jordan Shaker",
 			"role": "MD-PhD Scientist",
 			"img": "Jordan",
+			"status": "active",
 			"url": ""
 		},
 		{
 			"name": "Hailey Barrell",
 			"role": "Undergraduate Scientist",
 			"img": "Hailey",
+			"status": "active",
 			"url": ""
 		},
 		{
 			"name": "Sameer Apdalhaliem",
 			"role": "Undergraduate Scientist",
 			"img": "Sameer",
+			"status": "alumni",
 			"url": ""
 		},
 		{
 			"name": "Renee Wang",
 			"role": "Undergraduate Scientist",
 			"img": "Renee",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Jeesoo Yoon",
+			"role": "Undergraduate Scientist",
+			"img": "noPhoto",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Jay Bhateja",
+			"role": "Undergraduate Scientist",
+			"img": "noPhoto",
+			"status": "active",
 			"url": ""
 		}
 	]
