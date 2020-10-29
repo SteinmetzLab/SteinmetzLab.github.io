@@ -39,7 +39,7 @@ layout: compress
             <h2>Lab Alumni</h2>
             {% for person in people %}
               {% if person.status == "alumni" %}
-                <br>{{ person.name }}
+                <br>{{ person.name }} - {{ person.years }}
               {% endif %}
             {% endfor %}
 
