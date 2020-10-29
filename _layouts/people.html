@@ -4,21 +4,21 @@ layout: compress
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="site">
+<body class="site">
 
-    {% if site.google_tag_manager %}
+  {% if site.google_tag_manager %}
 
-      <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     {% endif %}
 
     {% include header.html %}
-	
+
     <div class="hero--small">
       <div class="hero__wrap">
         <h1 class="hero__title">The Steinmetz Lab Team</h1>
@@ -29,19 +29,27 @@ layout: compress
       <section class="blog">
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-			{% assign people = site.data.people.person %}
+           {% assign people = site.data.people.person %}
             {% for person in people %}
-			  
-			  {% include person.html %}
+              {% if person.status == "active" %}
+                {% include person.html %}
+              {% endif %}
             {% endfor %}
 
-          </div>
-        </div>
-      </section>
-    </main>
+            <h2>Lab Alumni</h2>
+            {% for person in people %}
+              {% if person.status == "alumni" %}
+                <br>{{ person.name }}
+              {% endif %}
+            {% endfor %}
 
-    {% include footer.html %}
+         </div>
+       </div>
+     </section>
+   </main>
 
-  </body>
+   {% include footer.html %}
 
-</html>
+ </body>
+
+ </html>
