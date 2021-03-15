@@ -19,13 +19,96 @@
 			],
 			"title": "Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain recordings",
 			"year": "2020",
-			"journal": "bioRxiv",
+			"journal": "Science (in press)",
 			"link": "https://www.biorxiv.org/content/10.1101/2020.10.27.358291v1",
 			"tags": [
-				"preprint",
+				"peerReview",
 				"selected",
 				"neuropixels",
 				"brainwide"
+			]
+		},
+		{
+			"authors": [
+				"Peters A",
+				"Fabre J",
+				"Steinmetz NA",
+				"Harris KD",
+				"Carandini M"
+			],
+			"authors_short": [
+				"Peters",
+				"Fabre",
+				"Steinmetz",
+				"Harris",
+				"Carandini"
+			],
+			"title": "Striatal activity topographically reflects cortical activity",
+			"year": "2021",
+			"journal": "Nature",
+			"link": "https://www.nature.com/articles/s41586-020-03166-8",
+			"tags": [
+				"peerReview",
+				"selected",
+				"neuropixels",
+				"widefield",
+				"behavior",
+				"vision",
+				"cortex",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
+				"Van Kempen J",
+				"Gieselmann MA",
+				"Boyd M", 
+				"Steinmetz NA",
+				"Moore T",
+				"Engel TA", 
+				"Thiele A"
+			],
+			"authors_short": [
+				"Van Kempen",
+				"Gieselmann",
+				"Boyd", 
+				"Steinmetz",
+				"Moore",
+				"Engel", 
+				"Thiele"
+			],
+			"title": "Top-down coordination of local cortical state during selective attention",
+			"year": "2021",
+			"journal": "Neuron",
+			"link": "https://doi.org/10.1016/j.neuron.2020.12.013",
+			"tags": [
+				"peerReview",
+				"attention", 
+				"dynamics", 
+				"vision", 
+				"behavior"
+			]
+		},
+		{
+			"authors": [
+				"'t Hart BM'",
+				"...",
+				"Steinmetz NA",
+				"et al."
+			],
+			"authors_short": [
+				"'t Hart'",
+				"...",
+				"Steinmetz",
+				"et al."
+			],
+			"title": "Neuromatch Academy: a 3-week, online summer school in computational neuroscience",
+			"year": "2021",
+			"journal": "OSF Preprints",
+			"link": "https://doi.org/10.31219/osf.io/9fp4v",
+			"tags": [
+				"preprint",
+				"neuropixels"
 			]
 		},
 		{
@@ -176,37 +259,6 @@
 			]
 		},
 		{
-			"authors": [
-				"Van Kempen J",
-				"Gieselmann MA",
-				"Boyd M", 
-				"Steinmetz NA",
-				"Moore T",
-				"Engel TA", 
-				"Thiele A"
-			],
-			"authors_short": [
-				"Van Kempen",
-				"Gieselmann",
-				"Boyd", 
-				"Steinmetz",
-				"Moore",
-				"Engel", 
-				"Thiele"
-			],
-			"title": "Top-down coordination of local cortical state during selective attention",
-			"year": "2020",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/10.1101/2020.03.26.009365v1",
-			"tags": [
-				"preprint",
-				"attention", 
-				"dynamics", 
-				"vision", 
-				"behavior"
-			]
-		},
-{
 			"authors": [
 				"Linden N",
 				"Tabuena D",
@@ -448,34 +500,6 @@
 				"Pettine",
 				"Steinmetz",
 				"Moore"
-			]
-		},
-		{
-			"authors": [
-				"Peters A",
-				"Steinmetz NA",
-				"Harris KD",
-				"Carandini M"
-			],
-			"authors_short": [
-				"Peters",
-				"Steinmetz",
-				"Harris",
-				"Carandini"
-			],
-			"title": "Striatal activity reflects cortical activity patterns",
-			"year": "2019",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/10.1101/703710v1",
-			"tags": [
-				"preprint",
-				"selected",
-				"neuropixels",
-				"widefield",
-				"behavior",
-				"vision",
-				"cortex",
-				"brainwide"
 			]
 		},
 		{

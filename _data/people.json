@@ -9,38 +9,59 @@
 		},
 		{
 			"name": "Zhiwen Ye",
-			"role": "Postdoctoral Scientist",
+			"role": "Postdoc",
 			"img": "Zhiwen",
 			"status": "active",
 			"url": "https://www.yezhiwen.com/"
 		},
 		{
 			"name": "Noam Roth",
-			"role": "Postdoctoral Scientist",
+			"role": "Postdoc",
 			"img": "Noam",
 			"status": "active",
 			"url": ""
 		},
 		{
 			"name": "Dan Birman",
-			"role": "Postdoctoral Scientist",
+			"role": "Postdoc",
 			"img": "Dan",
 			"status": "active",
 			"url": "https://danbirman.com/"
 		},
 		{
 			"name": "David Ottenheimer",
-			"role": "Postdoctoral Scientist, joint with Stuber Lab",
+			"role": "Postdoc, joint with Stuber Lab",
 			"img": "David",
 			"status": "active",
 			"url": "https://davidottenheimer.com/"
 		},
 		{
+			"name": "Anna Bowen",
+			"role": "Postdoc",
+			"img": "noPhoto",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Jordan Shaker",
+			"role": "MD-PhD Student",
+			"img": "Jordan",
+			"status": "active",
+			"url": ""
+		},
+		{
 			"name": "Saghar Mirbagheri",
-			"role": "Research Scientist",
+			"role": "PhD Student",
 			"img": "Saghar",
 			"status": "active",
 			"url": "https://scholar.google.com/citations?user=5Jph4ToAAAAJ&hl=en"
+		},
+		{
+			"name": "Anna Li",
+			"role": "PhD Student",
+			"img": "noPhoto",
+			"status": "active",
+			"url": ""
 		},
 		{
 			"name": "Haili Adams",
@@ -50,22 +71,15 @@
 			"url": ""
 		},
 		{
-			"name": "Jordan Shaker",
-			"role": "MD-PhD Scientist",
-			"img": "Jordan",
-			"status": "active",
-			"url": ""
-		},
-		{
 			"name": "Hailey Barrell",
-			"role": "Undergraduate Scientist",
+			"role": "Undergraduate",
 			"img": "Hailey",
 			"status": "active",
 			"url": ""
 		},
 		{
 			"name": "Sameer Apdalhaliem",
-			"role": "Undergraduate Scientist",
+			"role": "Undergraduate",
 			"img": "Sameer",
 			"status": "alumni",
 			"years": "2019-2020",
@@ -73,21 +87,28 @@
 		},
 		{
 			"name": "Renee Wang",
-			"role": "Undergraduate Scientist",
+			"role": "Undergraduate",
 			"img": "Renee",
 			"status": "active",
 			"url": ""
 		},
 		{
 			"name": "Jeesoo Yoon",
-			"role": "Undergraduate Scientist",
+			"role": "Undergraduate",
 			"img": "noPhoto",
 			"status": "active",
 			"url": ""
 		},
 		{
 			"name": "Jay Bhateja",
-			"role": "Undergraduate Scientist",
+			"role": "Undergraduate",
+			"img": "noPhoto",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Kai Nylund",
+			"role": "Undergraduate",
 			"img": "noPhoto",
 			"status": "active",
 			"url": ""
