@@ -55,7 +55,8 @@
 				"behavior",
 				"vision",
 				"cortex",
-				"brainwide"
+				"brainwide",
+				"selected"
 			]
 		},
 		{
@@ -86,6 +87,7 @@
 				"attention", 
 				"dynamics", 
 				"vision", 
+				"selected",
 				"behavior"
 			]
 		},
