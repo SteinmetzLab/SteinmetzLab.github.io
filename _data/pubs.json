@@ -19,13 +19,42 @@
 			],
 			"title": "Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain recordings",
 			"year": "2021",
-			"journal": "Science (in press)",
-			"link": "https://www.biorxiv.org/content/10.1101/2020.10.27.358291v1",
+			"journal": "Science",
+			"link": "https://science.sciencemag.org/content/372/6539/eabf4588",
 			"tags": [
 				"peerReview",
 				"selected",
 				"neuropixels",
 				"brainwide"
+			]
+		},
+		{
+			"authors": [
+				"Zatka-Haas P*",
+				"Steinmetz NA*",
+				"Carandini M",
+				"Harris KD"
+			],
+			"authors_short": [
+				"Zatka-Haas*",
+				"Steinmetz*",
+				"Carandini",
+				"Harris"
+			],
+			"title": "Sensory coding and the causal impact of mouse cortex in a visual decision",
+			"year": "2021",
+			"journal": "eLife",
+			"link": "https://elifesciences.org/articles/63163",
+			"tags": [
+				"peerReview",
+				"selected",
+				"neuropixels",
+				"optogenetics",
+				"widefield",
+				"population",
+				"behavior",
+				"vision",
+				"cortex"
 			]
 		},
 		{
@@ -61,6 +90,36 @@
 		},
 		{
 			"authors": [
+				"Shi Y-L",
+				"Steinmetz NA",
+				"Moore T",
+				"Boahen K",
+				"Engel TA"
+			],
+			"authors_short": [
+				"Shi",
+				"Steinmetz",
+				"Moore",
+				"Boahen",
+				"Engel"
+			],
+			"title": "Influence of On-Off dynamics and selective attention on the spatial pattern of correlated variability in neocortex",
+			"year": "2021",
+			"journal": "Nature Communications (in press)",
+			"link": "https://www.biorxiv.org/content/10.1101/2020.09.02.279893v1",
+			"tags": [
+				"peerReview",
+				"selected",
+				"vision",
+				"cortex",
+				"population",
+				"behavior",
+				"attention",
+				"dynamics"
+			]
+		},
+		{
+			"authors": [
 				"Van Kempen J",
 				"Gieselmann MA",
 				"Boyd M", 
@@ -89,6 +148,63 @@
 				"vision", 
 				"selected",
 				"behavior"
+			]
+		},
+		{
+			"authors": [
+				"Benjamin B",
+				"Steinmetz NA",
+				"Oza N",
+				"Aguayo J",
+				"Boahen K"
+			],
+			"authors_short": [
+				"Benjamin",
+				"Steinmetz",
+				"Oza",
+				"Aguayo",
+				"Boahen"
+			],
+			"title": "Neurogrid simulates cortical cell-types, active dendrites, and top-down attention",
+			"year": "2021",
+			"journal": "Neuromorphic Comp. and Eng.",
+			"link": "https://iopscience.iop.org/article/10.1088/2634-4386/ac0a5a/meta",
+			"tags": [
+				"peerReview",
+				"selected",
+				"modeling",
+				"attention"
+			]
+		},
+		{
+			"authors": [
+				"Zeraati R",
+				"Shi Y-L",
+				"Steinmetz NA",
+				"Gieselmann M",
+				"Thiele A",
+				"Moore T", 
+				"Levina A", 
+				"Engel T"
+			],
+			"authors_short": [
+				"Zeraati",
+				"Shi",
+				"Steinmetz",
+				"Gieselmann",
+				"Thiele",
+				"Moore",
+				"Levina",
+				"Engel"
+			],
+			"title": "Attentional modulation of intrinsic timescales in visual cortex and spatial networks",
+			"year": "2021",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2021.05.17.444537v1",
+			"tags": [
+				"preprint",
+				"vision",
+				"attention"
 			]
 		},
 		{
@@ -180,35 +296,6 @@
 		},
 		{
 			"authors": [
-				"Zatka-Haas P*",
-				"Steinmetz NA*",
-				"Carandini M",
-				"Harris KD"
-			],
-			"authors_short": [
-				"Zatka-Haas*",
-				"Steinmetz*",
-				"Carandini",
-				"Harris"
-			],
-			"title": "A perceptual decision requires sensory but not action coding in mouse cortex",
-			"year": "2020",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/10.1101/501627v3",
-			"tags": [
-				"preprint",
-				"selected",
-				"neuropixels",
-				"optogenetics",
-				"widefield",
-				"population",
-				"behavior",
-				"vision",
-				"cortex"
-			]
-		},
-		{
-			"authors": [
 				"The International Brain Laboratory",
 				"...",
 				"Steinmetz NA",
@@ -232,36 +319,6 @@
 		},
 		{
 			"authors": [
-				"Shi Y-L",
-				"Steinmetz NA",
-				"Moore T",
-				"Boahen K",
-				"Engel TA"
-			],
-			"authors_short": [
-				"Shi",
-				"Steinmetz",
-				"Moore",
-				"Boahen",
-				"Engel"
-			],
-			"title": "Influence of On-Off dynamics and selective attention on the spatial pattern of correlated variability in neocortex",
-			"year": "2020",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/10.1101/2020.09.02.279893v1",
-			"tags": [
-				"preprint",
-				"selected",
-				"vision",
-				"cortex",
-				"population",
-				"behavior",
-				"attention",
-				"dynamics"
-			]
-		},
-		{
-			"authors": [
 				"Linden N",
 				"Tabuena D",
 				"Steinmetz NA", 
@@ -278,11 +335,12 @@
 				"Brunton B"
 			],
 			"title": "Go with the FLOW: Visualizing spatiotemporal dynamics in optical widefield calcium imaging",
-			"year": "2020",
-			"journal": "arXiv",
-			"link": "https://arxiv.org/abs/2009.14283",
+			"year": "2021",
+			"journal": "J. of the Royal Society Interface",
+			"link": "https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0523",
 			"tags": [
-				"preprint",
+				"peerReview",
+				"selected",
 				"widefield", 
 				"dynamics"
 			]

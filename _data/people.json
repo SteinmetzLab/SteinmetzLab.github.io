@@ -67,7 +67,8 @@
 			"name": "Haili Adams",
 			"role": "Research Scientist",
 			"img": "Haili",
-			"status": "active",
+			"status": "alumni",
+			"years": "2019-2021",
 			"url": ""
 		},
 		{
@@ -94,7 +95,7 @@
 		},
 		{
 			"name": "Renee Wang",
-			"role": "Undergraduate",
+			"role": "Undergraduate, SCGB-SURF Fellow",
 			"img": "Renee",
 			"status": "active",
 			"url": ""
@@ -116,6 +117,13 @@
 		{
 			"name": "Kai Nylund",
 			"role": "Undergraduate",
+			"img": "noPhoto",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Julia Hopkins",
+			"role": "Undergraduate, SCGB-SURF Fellow",
 			"img": "noPhoto",
 			"status": "active",
 			"url": ""
