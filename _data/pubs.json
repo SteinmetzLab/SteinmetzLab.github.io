@@ -152,6 +152,31 @@
 		},
 		{
 			"authors": [
+				"Petersen PC",
+				"Siegle JH",
+				"Steinmetz NA",
+				"Mahallati S",
+				"Buzsáki G"
+			],
+			"authors_short": [
+				"Petersen",
+				"Siegle",
+				"Steinmetz",
+				"Mahallati",
+				"Buzsáki"
+			],
+			"title": "CellExplorer: A framework for visualizing and characterizing single neurons",
+			"year": "2021",
+			"journal": "Neuron",
+			"link": "https://doi.org/10.1016/j.neuron.2021.09.002",
+			"tags": [
+				"peerReview",
+				"selected",
+				"neuropixels"
+			]
+		},
+		{
+			"authors": [
 				"Benjamin B",
 				"Steinmetz NA",
 				"Oza N",
