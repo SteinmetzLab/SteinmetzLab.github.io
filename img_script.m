@@ -4,7 +4,7 @@ sourceDir = fullfile(rootDir, '_img', 'people');
 
 targetDir = fullfile(rootDir, 'assets', 'img', 'people');
 
-name = 'AnnaB';
+name = 'Ljuvi';
 
 d = dir(fullfile(sourceDir, [name '.*']));
 q = imread(fullfile(sourceDir, d(1).name));
