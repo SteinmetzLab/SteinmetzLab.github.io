@@ -131,14 +131,6 @@
 			"url": ""
 		},
 		{
-			"name": "Nyah Stevenson",
-			"role": "High school student, Basic Sciences Summer Research Program",
-			"img": "Nyah",
-			"status": "alumni",
-			"years": "2022",
-			"url": ""
-		},
-		{
 			"name": "Shae McNeil",
 			"role": "High school student, Basic Sciences Summer Research Program",
 			"img": "noPhoto",
@@ -147,11 +139,33 @@
 			"url": ""
 		},
 		{
+			"name": "Nyah Stevenson",
+			"role": "High school student, Basic Sciences Summer Research Program",
+			"img": "Nyah",
+			"status": "alumni",
+			"years": "2022",
+			"url": ""
+		},
+		{
 			"name": "Qiqi Liang",
 			"role": "Undergraduate",
 			"img": "noPhoto",
 			"status": "alumni",
 			"years": "2022",
+			"url": ""
+		},
+		{
+			"name": "Kenneth Yang",
+			"role": "Undergraduate",
+			"img": "noPhoto",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Jasmine Schoch",
+			"role": "Undergraduate",
+			"img": "noPhoto",
+			"status": "active",
 			"url": ""
 		}
 
