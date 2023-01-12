@@ -1,10 +1,12 @@
 
+% source image should be aspect ratio 1920 wide x 1080 tall
+
 rootDir = '/Users/nicksteinmetz/Dropbox/code/SteinmetzLab.github.io/';
 sourceDir = fullfile(rootDir, '_img', 'people');
 
 targetDir = fullfile(rootDir, 'assets', 'img', 'people');
 
-name = 'Ljuvi';
+name = 'AnnaLi';
 
 d = dir(fullfile(sourceDir, [name '.*']));
 q = imread(fullfile(sourceDir, d(1).name));

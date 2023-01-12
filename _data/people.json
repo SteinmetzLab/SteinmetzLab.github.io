@@ -97,7 +97,8 @@
 			"name": "Renee Wang",
 			"role": "Undergraduate, SCGB-SURF Fellow",
 			"img": "Renee",
-			"status": "active",
+			"status": "alumni",
+			"years": "2019-2022",
 			"url": ""
 		},
 		{
@@ -118,6 +119,13 @@
 			"name": "Kai Nylund",
 			"role": "Undergraduate",
 			"img": "noPhoto",
+			"status": "alumni",
+			"url": ""
+		},
+		{
+			"name": "Julia Hopkins",
+			"role": "Undergraduate, SCGB-SURF Fellow",
+			"img": "noPhoto",
 			"status": "active",
 			"url": ""
 		},
@@ -128,5 +136,6 @@
 			"status": "active",
 			"url": ""
 		}
+
 	]
 }
