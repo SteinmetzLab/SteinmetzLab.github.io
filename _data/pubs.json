@@ -2,6 +2,34 @@
 	"papers": [
 		{
 			"authors": [
+				"The International Brain Laboratory",
+				"...",
+				"Churchland AK",
+				"Paninski L",
+				"Steinmetz NA^",
+				"et al."
+			],
+			"authors_short": [
+				"The International Brain Laboratory",
+				"...",
+				"Churchland^",
+				"Paninski^",
+				"Steinmetz^",
+				"et al."
+			],
+			"title": "Reproducibility of in-vivo electrophysiological measurements in mice",
+			"year": "2022",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2022.05.09.491042v3.abstract",
+			"tags": [
+				"preprint",
+				"selected",
+				"neuropixels",
+				"IBL"
+			]
+		},
+		{
+			"authors": [
 				"Zagha E",
 				"Ehrlich JC",
 				"Lee S",
@@ -361,17 +389,16 @@
 				"et al."
 			],
 			"authors_short": [
-				"<a href=http://www.internationalbrainlab.org>The IBL</a>",
+				"<a href=http://www.internationalbrainlab.org>The International Brain Laboratory</a>",
 				"...",
 				"Steinmetz",
 				"et al."
 			],
 			"title": "Data architecture for a large-scale neuroscience collaboration",
-			"year": "2020",
-			"journal": "bioRxiv",
+			"year": "2022",
+			"journal": "Nature Methods (in press)",
 			"link": "https://www.biorxiv.org/content/10.1101/827873v3",
 			"tags": [
-				"preprint",
 				"selected",
 				"IBL"
 			]
