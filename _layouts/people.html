@@ -45,7 +45,7 @@ layout: compress
 
             {% for person in people %}
               {% if person.status == "alumni" %}
-                <br>{{ person.name }} ({{ person.years }})
+                {% include person.html %}
               {% endif %}
             {% endfor %}
 
