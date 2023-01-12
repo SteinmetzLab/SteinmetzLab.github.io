@@ -137,6 +137,22 @@
 			"status": "alumni",
 			"years": "2022",
 			"url": ""
+		},
+		{
+			"name": "Shae McNeil",
+			"role": "High school student, Basic Sciences Summer Research Program",
+			"img": "noPhoto",
+			"status": "alumni",
+			"years": "2021",
+			"url": ""
+		},
+		{
+			"name": "Qiqi Liang",
+			"role": "Undergraduate",
+			"img": "noPhoto",
+			"status": "alumni",
+			"years": "2022",
+			"url": ""
 		}
 
 	]
