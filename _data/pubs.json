@@ -2,6 +2,56 @@
 	"papers": [
 		{
 			"authors": [
+				"Ottenheimer D*",
+				"Hjort M*",
+				"Bowen A*",
+				"Steinmetz NA^",
+				"Stuber G^"
+			],
+			"authors_short": [
+				"Ottenheimer*",
+				"Hjort*",
+				"Bowen*",
+				"Steinmetz^",
+				"Stuber^"
+			],
+			"title": "A stable, distributed code for cue value in mouse cortex during reward learning",
+			"year": "2022",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2022.07.13.499930v2.abstract",
+			"tags": [
+				"selected",
+				"preprint",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
+				"Recanatesi S",
+				"Bradde S",
+				"Balasubramaniam V^",
+				"Steinmetz NA^",
+				"Shea-Brown E^"
+			],
+			"authors_short": [
+				"Recanatesi",
+				"Bradde",
+				"Balasubramaniam^",
+				"Steinmetz^",
+				"Shea-Brown^"
+			],
+			"title": "A scale-dependent measure of system dimensionality",
+			"year": "2022",
+			"journal": "Patterns",
+			"link": "https://doi.org/10.1016/j.patter.2022.100555",
+			"tags": [
+				"selected",
+				"neuropixels"
+			]
+		},
+		{
+			"authors": [
 				"The International Brain Laboratory",
 				"...",
 				"Churchland AK",
