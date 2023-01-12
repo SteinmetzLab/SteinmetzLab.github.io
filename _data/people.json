@@ -120,6 +120,7 @@
 			"role": "Undergraduate",
 			"img": "noPhoto",
 			"status": "alumni",
+			"years": "2021-2022",
 			"url": ""
 		},
 		{
@@ -132,7 +133,7 @@
 		{
 			"name": "Nyah Stevenson",
 			"role": "High school student, Basic Sciences Summer Research Program",
-			"img": "noPhoto",
+			"img": "Nyah",
 			"status": "alumni",
 			"years": "2022",
 			"url": ""
