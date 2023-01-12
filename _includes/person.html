@@ -30,15 +30,16 @@
   <a class="post-card__inner" href="{{ person.url | relative_url }}">
     <div class="post-card__header">
       <h2>{{ person.name | strip_html | truncate: 50 }}</h2>
-      {% if person.status == "alumni" %}
-            <br>{{ person.years }}
-      {% endif %}
+      
       <!-- {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %} -->
       <!-- <span class="post-card__meta">
         <time>{{ post.date | date: date_format }}</time>
       </span> -->
       <span class="post-card__meta">
 		  {{ person.role }}
+      {% if person.status == "alumni" %}
+            &nbsp{{ person.years }}
+      {% endif %}
 		</span>
     </div>
     <!-- {% if post.summary %}

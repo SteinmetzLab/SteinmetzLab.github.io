@@ -39,8 +39,8 @@ layout: compress
             
 
          </div>
-
-          <h2>Alumni</h2>
+         <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+          <h1><i>Alumni</i></h1>
             {% assign people = site.data.people.person %}
 
             {% for person in people %}
@@ -48,7 +48,7 @@ layout: compress
                 {% include person.html %}
               {% endif %}
             {% endfor %}
-
+          </div>
        </div>
      </section>
    </main>
