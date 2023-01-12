@@ -2,6 +2,38 @@
 	"papers": [
 		{
 			"authors": [
+				"Zagha E",
+				"Ehrlich JC",
+				"Lee S",
+				"Lur G",
+				"O'Connor DH",
+				"Steinmetz NA",
+				"Stringer C",
+				"Yang H"
+			],
+			"authors_short": [
+				"Zagha",
+				"Ehrlich",
+				"Lee",
+				"Lur",
+				"O'Connor",
+				"Steinmetz",
+				"Stringer",
+				"Yang"
+			],
+			"title": "The importance of accounting for movement when relating neuronal activity to sensory and cognitive processes",
+			"year": "2022",
+			"journal": "Journal of Neuroscience",
+			"link": "https://doi.org/10.1523/JNEUROSCI.1919-21.2021",
+			"tags": [
+				"review",
+				"selected",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Steinmetz NA*",
 				"Aydin C*",
 				"Lebedeva A*",
@@ -106,10 +138,10 @@
 				"Boahen",
 				"Engel"
 			],
-			"title": "Influence of On-Off dynamics and selective attention on the spatial pattern of correlated variability in neocortex",
-			"year": "2021",
-			"journal": "Nature Communications (in press)",
-			"link": "https://www.biorxiv.org/content/10.1101/2020.09.02.279893v1",
+			"title": "Cortical state dynamics and selective attention define the spatial pattern of correlated variability in neocortex",
+			"year": "2022",
+			"journal": "Nature Communications",
+			"link": "https://www.nature.com/articles/s41467-021-27724-4",
 			"tags": [
 				"peerReview",
 				"selected",
@@ -249,11 +281,10 @@
 				"et al."
 			],
 			"title": "Neuromatch Academy: a 3-week, online summer school in computational neuroscience",
-			"year": "2021",
-			"journal": "OSF Preprints",
-			"link": "https://doi.org/10.31219/osf.io/9fp4v",
+			"year": "2022",
+			"journal": "J. of Open Science Education",
+			"link": "https://doi.org/10.21105/jose.00118",
 			"tags": [
-				"preprint",
 				"neuropixels"
 			]
 		},
