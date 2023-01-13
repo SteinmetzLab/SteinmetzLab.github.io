@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Klingenstein-Simons Award"
-featured-img: noPhoto
+featured-img: Klingenstein
 categories:
 ---
 
