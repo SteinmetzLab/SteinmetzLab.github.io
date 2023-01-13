@@ -1,14 +1,16 @@
 
 % source image should be aspect ratio 1920 wide x 1080 tall
 
+name = 'HHMI';
+type = 'posts';
+
 % rootDir = '/Users/nicksteinmetz/Dropbox/code/SteinmetzLab.github.io/';
 rootDir = fullfile(dropboxDir, 'code','SteinmetzLab.github.io');
 
-sourceDir = fullfile(rootDir, '_img', 'people');
+sourceDir = fullfile(rootDir, '_img', type);
 
-targetDir = fullfile(rootDir, 'assets', 'img', 'people');
+targetDir = fullfile(rootDir, 'assets', 'img', type);
 
-name = 'Kai';
 
 d = dir(fullfile(sourceDir, [name '.*']));
 q = imread(fullfile(sourceDir, d(1).name));
