@@ -196,6 +196,82 @@
 		},
 		{
 			"authors": [
+				"Song M",
+				"Shin EJ",
+				"Seo H",
+				"Soltani A",
+				"Steinmetz NA",
+				"Lee D",
+				"Jung MW",
+				"Paik S-B"
+			],
+			"authors_short": [
+				"Song",
+				"Shin",
+				"Seo",
+				"Soltani",
+				"Steinmetz",
+				"Lee",
+				"Jung",
+				"Paik"
+			],
+			"title": "Hierarchical gradient of timescales in the mammalian forebrain",
+			"year": "2023",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2023.05.12.540610",
+			"tags": [
+				"selected",
+				"preprint",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
+				"Zhang Y",
+				"He T",
+				"Boussard J",
+				"Windolf C",
+				"Winter O",
+				"Trautmann E",
+				"Roth N",
+				"Barrell H",
+				"Churchland M",
+				"Steinmetz NA",
+				"The International Brain Laboratory",
+				"Varol E",
+				"Hurwitz C",
+				"Paninski L"
+			],
+			"authors_short": [
+				"Zhang",
+				"He",
+				"Boussard",
+				"Windolf",
+				"Winter",
+				"Trautmann",
+				"Roth",
+				"Barrell",
+				"Churchland",
+				"Steinmetz",
+				"IBL",
+				"Varol",
+				"Hurwitz",
+				"Paninski"
+			],
+			"title": "Bypassing spike sorting: Density-based decoding using spike localization from dense multielectrode probes",
+			"year": "2023",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2023.09.21.558869",
+			"tags": [
+				"selected",
+				"preprint",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Windolf C",
 				"...",
 				"Ye Z",
