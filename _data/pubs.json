@@ -196,6 +196,38 @@
 		},
 		{
 			"authors": [
+				"Windolf C",
+				"...",
+				"Ye Z",
+				"Shaker J",
+				"Steinmetz NA",
+				"...",
+				"Paninski L",
+				"Varol E"
+			],
+			"authors_short": [
+				"Windolf",
+				"...",
+				"Ye",
+				"Shaker",
+				"Steinmetz",
+				"...",
+				"Paninski",
+				"Varol"
+			],
+			"title": "DREDge: robust motion correction for high-density extracellular recordings across species",
+			"year": "2023",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2023.10.24.563768",
+			"tags": [
+				"selected",
+				"preprint",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Recanatesi S",
 				"Bradde S",
 				"Balasubramaniam V^",
@@ -505,7 +537,7 @@
 			],
 			"title": "Intrinsic timescales in the visual cortex change with selective attention and reflect spatial connectivity",
 			"year": "2023",
-			"journal": "Nature Comms",
+			"journal": "Nature Communications",
 			"link": "https://www.nature.com/articles/s41467-023-37613-7",
 			"tags": [
 				"vision",
