@@ -36,14 +36,6 @@
 			"url": "https://danbirman.com/"
 		},
 		{
-			"name": "David Ottenheimer",
-			"role": "Postdoc, joint with Stuber Lab",
-			"img": "David",
-			"status": "alumni",
-			"years": "2020-2023",
-			"url": "https://davidottenheimer.com/"
-		},
-		{
 			"name": "Anna Bowen",
 			"role": "Postdoc",
 			"img": "AnnaB",
@@ -102,6 +94,14 @@
 			"status": "alumni",
 			"years": "2019-2022",
 			"url": ""
+		},
+		{
+			"name": "David Ottenheimer",
+			"role": "Postdoc, joint with Stuber Lab",
+			"img": "David",
+			"status": "alumni",
+			"years": "2020-2023",
+			"url": "https://davidottenheimer.com/"
 		},
 		{
 			"name": "Jeesoo Yoon",

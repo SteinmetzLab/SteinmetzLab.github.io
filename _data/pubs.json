@@ -2,6 +2,62 @@
 	"papers": [
 		{
 			"authors": [
+				"The International Brain Laboratory",
+				"...",
+				"Birman D",
+				"Roth N",
+				"Steinmetz NA",
+				"et al."
+			],
+			"authors_short": [
+				"<a href=http://www.internationalbrainlab.org>The International Brain Laboratory</a>",
+				"...",
+				"Birman",
+				"Roth",
+				"Steinmetz",
+				"et al."
+			],
+			"title": "A brain-wide map of neural activity during complex behaviour",
+			"year": "2023",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2023.07.04.547681",
+			"tags": [
+				"selected",
+				"preprint",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
+				"The International Brain Laboratory",
+				"...",
+				"Birman D",
+				"Roth N",
+				"Steinmetz NA",
+				"et al."
+			],
+			"authors_short": [
+				"<a href=http://www.internationalbrainlab.org>The International Brain Laboratory</a>",
+				"...",
+				"Birman",
+				"Roth",
+				"Steinmetz",
+				"et al."
+			],
+			"title": "A brain-wide map of neural activity during complex behaviour",
+			"year": "2023",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2023.07.04.547681",
+			"tags": [
+				"selected",
+				"preprint",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Ottenheimer D*",
 				"Hjort M*",
 				"Bowen A*",
@@ -16,12 +72,11 @@
 				"Stuber^"
 			],
 			"title": "A stable, distributed code for cue value in mouse cortex during reward learning",
-			"year": "2022",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/10.1101/2022.07.13.499930v2.abstract",
+			"year": "2023",
+			"journal": "eLife",
+			"link": "https://elifesciences.org/articles/84604",
 			"tags": [
 				"selected",
-				"preprint",
 				"neuropixels",
 				"brainwide"
 			]
