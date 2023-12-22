@@ -2,6 +2,50 @@
 	"papers": [
 		{
 			"authors": [
+				"Ye Z*", 
+				"Shelton A*",
+				"Shaker J",
+				"Boussard J",
+				"Colonell J",
+				"...",
+				"Mora Lopez C",
+				"Dutta B",
+				"Paninski L",
+				"Siegle JH",
+				"Koch C",
+				"Olsen SR",
+				"Harris TD",
+				"Steinmetz NA"
+			],
+			"authors_short": [
+				"Ye*", 
+				"Shelton*",
+				"Shaker",
+				"Boussard",
+				"Colonell",
+				"...",
+				"Mora Lopez",
+				"Dutta",
+				"Paninski",
+				"Siegle",
+				"Koch",
+				"Olsen",
+				"Harris",
+				"Steinmetz"
+			],
+			"title": "Ultra-high density electrodes improve detection, yield, and cell type specificity of brain recordings",
+			"year": "2023",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2023.08.23.554527",
+			"tags": [
+				"selected",
+				"preprint",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Birman D", 
 				"Yang KJ",
 				"West SJ",
@@ -17,18 +61,17 @@
 				"West",
 				"Karsh",
 				"Browning",
-				"<a href=http://www.internationalbrainlab.org>The International Brain Laboratory</a>",
+				"The International Brain Laboratory",
 				"...",
 				"Siegle",
 				"Steinmetz"
 			],
 			"title": "Pinpoint: trajectory planning for multi-probe electrophysiology and injections in an interactive web-based 3D environment",
 			"year": "2023",
-			"journal": "eLife (reviewed preprint)",
+			"journal": "eLife [Reviewed Preprint]",
 			"link": "https://elifesciences.org/reviewed-preprints/91662",
 			"tags": [
 				"selected",
-				"preprint",
 				"neuropixels",
 				"brainwide"
 			]
