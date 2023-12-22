@@ -2,6 +2,41 @@
 	"papers": [
 		{
 			"authors": [
+				"Birman D", 
+				"Yang KJ",
+				"West SJ",
+				"Karsh B",
+				"Browning Y",
+				"The International Brain Laboratory",
+				"Siegle J",
+				"Steinmetz NA"
+			],
+			"authors_short": [
+				"Birman",
+				"Yang",
+				"West",
+				"Karsh",
+				"Browning",
+				"<a href=http://www.internationalbrainlab.org>The International Brain Laboratory</a>",
+				"...",
+				"Siegle",
+				"Steinmetz"
+			],
+			"title": "Pinpoint: trajectory planning for multi-probe electrophysiology and injections in an interactive web-based 3D environment",
+			"year": "2023",
+			"journal": "eLife (reviewed preprint)",
+			"link": "https://elifesciences.org/reviewed-preprints/91662",
+			"tags": [
+				"selected",
+				"preprint",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
+				"Findling C", 
+				"Hubert F",
 				"The International Brain Laboratory",
 				"...",
 				"Birman D",
@@ -10,6 +45,8 @@
 				"et al."
 			],
 			"authors_short": [
+				"Findling",
+				"Hubert",
 				"<a href=http://www.internationalbrainlab.org>The International Brain Laboratory</a>",
 				"...",
 				"Birman",
@@ -17,10 +54,10 @@
 				"Steinmetz",
 				"et al."
 			],
-			"title": "A brain-wide map of neural activity during complex behaviour",
+			"title": "Brain-wide representations of prior information in mouse decision-making",
 			"year": "2023",
 			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/10.1101/2023.07.04.547681",
+			"link": "https://www.biorxiv.org/content/10.1101/2023.07.04.547684",
 			"tags": [
 				"selected",
 				"preprint",
