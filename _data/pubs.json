@@ -2,6 +2,39 @@
 	"papers": [
 		{
 			"authors": [
+				"Ye Z", 
+				"Bull MS",
+				"Li A",
+				"Birman D",
+				"Daigle TL",
+				"Tasic B",
+				"Zeng H",
+				"Steinmetz NA"
+			],
+			"authors_short": [
+				"Ye", 
+				"Bull",
+				"Li",
+				"Birman",
+				"Daigle",
+				"Tasic",
+				"Zeng",
+				"Steinmetz"
+			],
+			"title": "Brain-wide topographic coordination of traveling spiral waves",
+			"year": "2023",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2023.12.07.570517",
+			"tags": [
+				"selected",
+				"preprint",
+				"neuropixels",
+				"widefield",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Ye Z*", 
 				"Shelton A*",
 				"Shaker J",
@@ -470,13 +503,13 @@
 				"Levina",
 				"Engel"
 			],
-			"title": "Attentional modulation of intrinsic timescales in visual cortex and spatial networks",
-			"year": "2021",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/10.1101/2021.05.17.444537v1",
+			"title": "Intrinsic timescales in the visual cortex change with selective attention and reflect spatial connectivity",
+			"year": "2023",
+			"journal": "Nature Comms",
+			"link": "https://www.nature.com/articles/s41467-023-37613-7",
 			"tags": [
-				"preprint",
 				"vision",
+				"selected",
 				"attention"
 			]
 		},
@@ -580,9 +613,9 @@
 				"et al."
 			],
 			"title": "Data architecture for a large-scale neuroscience collaboration",
-			"year": "2022",
-			"journal": "Nature Methods (in press)",
-			"link": "https://www.biorxiv.org/content/10.1101/827873v3",
+			"year": "2023",
+			"journal": "Nature Methods",
+			"link": "https://www.nature.com/articles/s41592-022-01742-6",
 			"tags": [
 				"selected",
 				"IBL"
