@@ -8,6 +8,13 @@
 			"url": "http://www.nicksteinmetz.com"
 		},
 		{
+			"name": "Saghar Mirbagheri",
+			"role": "PhD Student",
+			"img": "Saghar",
+			"status": "active",
+			"url": "https://scholar.google.com/citations?user=5Jph4ToAAAAJ&hl=en"
+		},
+		{
 			"name": "Zhiwen Ye",
 			"role": "Postdoc",
 			"img": "Zhiwen",
@@ -32,7 +39,8 @@
 			"name": "David Ottenheimer",
 			"role": "Postdoc, joint with Stuber Lab",
 			"img": "David",
-			"status": "active",
+			"status": "alumni",
+			"years": "2020-2023",
 			"url": "https://davidottenheimer.com/"
 		},
 		{
@@ -50,16 +58,16 @@
 			"url": ""
 		},
 		{
-			"name": "Saghar Mirbagheri",
-			"role": "PhD Student",
-			"img": "Saghar",
-			"status": "active",
-			"url": "https://scholar.google.com/citations?user=5Jph4ToAAAAJ&hl=en"
-		},
-		{
 			"name": "Anna Li",
 			"role": "PhD Student",
 			"img": "AnnaLi",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Ljuvica Kolich",
+			"role": "Research Scientist",
+			"img": "Ljuvi",
 			"status": "active",
 			"url": ""
 		},
@@ -72,17 +80,11 @@
 			"url": ""
 		},
 		{
-			"name": "Ljuvica Kolich",
-			"role": "Research Scientist",
-			"img": "Ljuvi",
-			"status": "active",
-			"url": ""
-		},
-		{
 			"name": "Hailey Barrell",
 			"role": "Undergraduate",
 			"img": "Hailey",
-			"status": "active",
+			"status": "alumni",
+			"years": "2019-2023",
 			"url": ""
 		},
 		{
@@ -105,14 +107,16 @@
 			"name": "Jeesoo Yoon",
 			"role": "Undergraduate",
 			"img": "Jeesoo",
-			"status": "active",
+			"status": "alumni",
+			"years": "2020-2023",
 			"url": ""
 		},
 		{
 			"name": "Jay Bhateja",
 			"role": "Undergraduate",
 			"img": "Jay",
-			"status": "active",
+			"status": "alumni",
+			"years": "2020-2022",
 			"url": ""
 		},
 		{
@@ -127,7 +131,8 @@
 			"name": "Julia Hopkins",
 			"role": "Undergraduate, SCGB-SURF Fellow",
 			"img": "noPhoto",
-			"status": "active",
+			"status": "alumni",
+			"years": "2021-2023",
 			"url": ""
 		},
 		{
@@ -165,6 +170,49 @@
 			"name": "Jasmine Schoch",
 			"role": "Undergraduate",
 			"img": "Jasmine",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Bethania Bahru",
+			"role": "High school student, BRIGHT-UP Program",
+			"img": "noPhoto",
+			"status": "alumni",
+			"years": "2023",
+			"url": ""
+		},
+		{
+			"name": "Kim Miller",
+			"role": "Research Scientist",
+			"img": "noPhoto",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Jeremy Schroeter",
+			"role": "Research Scientist",
+			"img": "noPhoto",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Nadia Matveeva",
+			"role": "Undergraduate",
+			"img": "noPhoto",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Rachel Yin",
+			"role": "Undergraduate",
+			"img": "noPhoto",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Matthew Tucker",
+			"role": "Research Scientist",
+			"img": "noPhoto",
 			"status": "active",
 			"url": ""
 		}
