@@ -130,7 +130,7 @@
 		{
 			"name": "Julia Hopkins",
 			"role": "Undergraduate, SCGB-SURF Fellow",
-			"img": "noPhoto",
+			"img": "Julia",
 			"status": "alumni",
 			"years": "2021-2023",
 			"url": ""
@@ -176,7 +176,7 @@
 		{
 			"name": "Bethania Bahru",
 			"role": "High school student, BRIGHT-UP Program",
-			"img": "noPhoto",
+			"img": "Bethania",
 			"status": "alumni",
 			"years": "2023",
 			"url": ""
@@ -184,7 +184,7 @@
 		{
 			"name": "Kim Miller",
 			"role": "Research Scientist",
-			"img": "noPhoto",
+			"img": "Kim",
 			"status": "active",
 			"url": ""
 		},
@@ -198,7 +198,7 @@
 		{
 			"name": "Nadia Matveeva",
 			"role": "Undergraduate",
-			"img": "noPhoto",
+			"img": "Nadia",
 			"status": "active",
 			"url": ""
 		},
@@ -212,7 +212,7 @@
 		{
 			"name": "Matthew Tucker",
 			"role": "Research Scientist",
-			"img": "noPhoto",
+			"img": "Matthew",
 			"status": "active",
 			"url": ""
 		}
