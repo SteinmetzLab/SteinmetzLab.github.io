@@ -1,7 +1,7 @@
 
 % source image should be aspect ratio 1920 wide x 1080 tall
 
-name = 'Bethania';
+name = 'noPhoto';
 type = 'people';
 
 % rootDir = '/Users/nicksteinmetz/Dropbox/code/SteinmetzLab.github.io/';
