@@ -6,7 +6,7 @@ permalink: /shared/
 
 <h2>Datasets</h2>
 <ul>
-	<li><a href="https://doi.org/10.6084/m9.figshare.14024495">Neuropixels 2.0 recordings with imposed probe-brain motion</a> from <a href="https://science.sciencemag.org/content/372/6539/eabf4588">Steinmetz et al 2021</a>. 
+	<li><a href="https://doi.org/10.6084/m9.figshare.14024495">Neuropixels 2.0 recordings with imposed probe-brain motion</a> from <a href="https://science.sciencemag.org/content/372/6539/eabf4588">Steinmetz et al 2021</a>. </li>
 	<li><a href="https://figshare.com/articles/steinmetz/9598406">Neuropixels recordings during visual discrimination</a> from Steinmetz et al 2019. Also accessible in Neurodata Without Borders (NWB) format <a href="https://figshare.com/articles/Datasets_from_Steinmetz_et_al_2019_in_NWB_format/11274968/1">here</a> and via the Open Neurophysiology Environment (ONE) interface <a href="https://figshare.com/articles/steinmetz/9974357">here</a>.</li>
 	<li><a href="https://figshare.com/articles/Eight-probe_Neuropixels_recordings_during_spontaneous_behaviors/7739750">Recordings with eight Neuropixels simultaneously during spontaneous behavior</a> from <a href="https://science.sciencemag.org/content/364/6437/eaav7893">Stringer, Pachitariu, et al 2019</a>.</li>
 	<li><a href="http://data.cortexlab.net/singlePhase3/">An example dataset</a> recorded with a Neuropixels probe, with original raw data available.</li>
