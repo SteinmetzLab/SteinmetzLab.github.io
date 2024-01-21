@@ -1,8 +1,10 @@
 
 % source image should be aspect ratio 1920 wide x 1080 tall
 
-name = 'Christina';
-type = 'people';
+% name = 'Christina';
+% type = 'people';
+name = 'NIH';
+type = 'posts';
 
 % rootDir = '/Users/nicksteinmetz/Dropbox/code/SteinmetzLab.github.io/';
 rootDir = fullfile(dropboxDir, 'code','SteinmetzLab.github.io');
