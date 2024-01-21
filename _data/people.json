@@ -206,7 +206,14 @@
 		{
 			"name": "Rachel Yin",
 			"role": "Undergraduate",
-			"img": "noPhoto",
+			"img": "Rachel",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Christina Wang",
+			"role": "Rotating graduate student",
+			"img": "Christina",
 			"status": "active",
 			"url": ""
 		},
@@ -214,6 +221,13 @@
 			"name": "Matthew Tucker",
 			"role": "Research Scientist",
 			"img": "Matthew",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Nancy MacKenzie",
+			"role": "Rotating graduate student",
+			"img": "Nancy",
 			"status": "active",
 			"url": ""
 		}
