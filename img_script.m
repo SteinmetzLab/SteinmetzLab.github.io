@@ -33,3 +33,9 @@ fprintf(1, 'Writing width %d to %s\n', x, outFile);
 imwrite(b, outFile, 'jpg', 'Quality', 70);
 
 end
+
+% making transparent parts white instead of black
+% for idx = 1:3
+% newq = 255*ones(size(q,1), size(q,2));
+% q1 = q(:,:,idx); newq(~iswhite) = q1(~iswhite); q(:,:,idx) = newq;
+% end
