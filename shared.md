@@ -22,7 +22,7 @@ permalink: /shared/
 
 <h2>Software</h2>
 <ul>
-	<li><a href="https://data.virtualbrainlab.org/pinpoint/">Pinpoint</a> software for probe insertion planning in the mouse brain.</li>
+	<li><a href="https://data.virtualbrainlab.org/pinpoint/">Pinpoint</a> software for probe insertion planning in the mouse brain. Developed by postdoc Dan Birman with undergraduates Kenneth Yang and Kai Nylund.</li>
 	<li><a href="https://github.com/MouseLand/kilosort2">"Kilosort2"</a>, a tool for faster and more accurate spike sorting, designed for very large datasets. Developed primarily by Marius Pachitariu.</li>
 	<li><a href="https://github.com/cortex-lab/phy">"Phy"</a>, a graphical user interface for manual-stage spike sorting, also designed for very large datasets. Developed primarily by Cyrille Rossant.</li>			
 	<li><a href="https://github.com/cortex-lab/spikes">"Spikes"</a>, code for performing many basic analyses of spike trains in Matlab.</li>
