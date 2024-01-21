@@ -3,7 +3,7 @@
 
 % name = 'Christina';
 % type = 'people';
-name = 'NIH';
+name = 'WRF';
 type = 'posts';
 
 % rootDir = '/Users/nicksteinmetz/Dropbox/code/SteinmetzLab.github.io/';
