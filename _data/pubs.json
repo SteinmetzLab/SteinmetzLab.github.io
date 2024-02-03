@@ -2,6 +2,33 @@
 	"papers": [
 		{
 			"authors": [
+				"Chandrasekaran AD", 
+				"Vermani A",
+				"Gupta P",
+				"Steinmetz NA",
+				"Moore T",
+				"Sridharan D"
+			],
+			"authors_short": [
+				"Chandrasekaran", 
+				"Vermani",
+				"Gupta",
+				"Steinmetz",
+				"Moore",
+				"Sridharan"
+			],
+			"title": "Dissociable components of attention exhibit distinct neuronal signatures in primate visual cortex",
+			"year": "2024",
+			"journal": "Science Advances",
+			"link": "https://doi.org/10.1126/sciadv.adi0645",
+			"tags": [
+				"attention",
+				"vision", 
+				"psychophysics"
+			]
+		},
+		{
+			"authors": [
 				"Ye Z", 
 				"Bull MS",
 				"Li A",
