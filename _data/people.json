@@ -138,10 +138,10 @@
 		},
 		{
 			"name": "Shae McNeil",
-			"role": "High school student, Basic Sciences Summer Research Program",
+			"role": "Undergraduate; former high-school summer student",
 			"img": "Shae",
-			"status": "alumni",
-			"years": "2021",
+			"status": "active",
+			"years": "2021; 2024-",
 			"url": ""
 		},
 		{
@@ -171,7 +171,8 @@
 			"name": "Jasmine Schoch",
 			"role": "Undergraduate",
 			"img": "Jasmine",
-			"status": "active",
+			"status": "alumni",
+			"years": "2022-2024",
 			"url": ""
 		},
 		{
@@ -214,7 +215,7 @@
 			"name": "Christina Wang",
 			"role": "Rotating graduate student",
 			"img": "Christina",
-			"status": "active",
+			"status": "alumni",
 			"url": ""
 		},
 		{
@@ -226,8 +227,15 @@
 		},
 		{
 			"name": "Nancy MacKenzie",
-			"role": "Rotating graduate student",
+			"role": "PhD student",
 			"img": "Nancy",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Xander Ladd",
+			"role": "PhD student",
+			"img": "noPhoto",
 			"status": "active",
 			"url": ""
 		}
