@@ -20,6 +20,7 @@ permalink: /neusci490/
 	<li>Nick Steinmetz (UW Neurobiology & Biophysics and course director)</li>
 </ul>
 
+<font color="#555555">
 <p><h3>Lecturers for Fall 2023</h3>
 <p><ul>
 	<li>Adrienne Fairhall</li>
@@ -74,4 +75,4 @@ permalink: /neusci490/
 	<li>Nick Steinmetz</li>
 </ul>
 
-
+</font>
