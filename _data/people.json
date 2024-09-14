@@ -33,7 +33,8 @@
 			"name": "Dan Birman",
 			"role": "Postdoc",
 			"img": "Dan",
-			"status": "active",
+			"status": "alumni",
+			"years": "2020-2024",
 			"url": "https://danbirman.com/"
 		},
 		{
@@ -140,8 +141,8 @@
 			"name": "Shae McNeil",
 			"role": "Undergraduate; former high-school summer student",
 			"img": "Shae",
-			"status": "active",
-			"years": "2021; 2024-",
+			"status": "alumni",
+			"years": "2021; 2024",
 			"url": ""
 		},
 		{
@@ -198,7 +199,7 @@
 			"url": ""
 		},
 		{
-			"name": "Nadia Matveeva",
+			"name": "Pascha Matveev",
 			"role": "Undergraduate",
 			"img": "Nadia",
 			"status": "active",
@@ -216,6 +217,7 @@
 			"role": "Rotating graduate student",
 			"img": "Christina",
 			"status": "alumni",
+			"years": "2023",
 			"url": ""
 		},
 		{
@@ -237,6 +239,14 @@
 			"role": "PhD student",
 			"img": "noPhoto",
 			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Arshia Kathpalia",
+			"role": "High school student, BRIGHT-UP Program",
+			"img": "Arshia",
+			"status": "alumni",
+			"years": "2024",
 			"url": ""
 		}
 

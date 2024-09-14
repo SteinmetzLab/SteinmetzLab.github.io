@@ -1,5 +1,5 @@
 
-
+% THIS FUNCTION IS DEPRECATED - USE IMG_SCRIPT.M INSTEAD
 function makeImages(sourceImg)
 
 % load image data
