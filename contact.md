@@ -6,7 +6,7 @@ permalink: /contact/
 
 
 <p>Health Sciences Building, Lab I-534
-<br>Department of Biological Structure
+<br>Department of Neurobiology & Biophysics
 <br>University of Washington
 
 <p> <i>Mailing address: </i>

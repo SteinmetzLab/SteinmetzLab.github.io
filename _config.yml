@@ -2,7 +2,7 @@
 title: Steinmetz Lab # your site title
 author: Nick Steinmetz # You :P
 description: > # Meta description of Homepage
-  Neuroscience laboratory at University of Washington, Department of Biological Structure. PI Nick Steinmetz. 
+  Laboratory in the Department of Neurobiology & Biophysics at the University of Washington, Seattle. PI Nick Steinmetz. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.steinmetzlab.net/" # the base hostname & protocol for your site, e.g. http://example.com
 
