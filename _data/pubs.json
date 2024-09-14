@@ -2,6 +2,36 @@
 	"papers": [
 		{
 			"authors": [
+				"Deveau C", 
+				"Zhou Z",
+				"LaFosse PK",
+				"Deng Y", 
+				"Mirbagheri S",
+				"Steinmetz NA",
+				"Histed MH"
+			],
+			"authors_short": [
+				"Deveau", 
+				"Zhou",
+				"LaFosse",
+				"Deng", 
+				"Mirbagheri",
+				"Steinmetz",
+				"Histed"
+			],
+			"title": "Active filtering of sequences of neural activity by recurrent circuits of sensory cortex",
+			"year": "2024",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2024.02.24.581890",
+			"tags": [
+				"preprint",
+				"vision", 
+				"psychophysics",
+				"neuropixels"
+			]
+		},
+		{
+			"authors": [
 				"Chandrasekaran AD", 
 				"Vermani A",
 				"Gupta P",
