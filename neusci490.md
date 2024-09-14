@@ -74,3 +74,4 @@ permalink: /neusci490/
 	<li>Nick Steinmetz</li>
 </ul>
 
+<p>Prior to 2020, this course was run by Adrienne Fairhall; see course history <a href="https://fairhalllab.com/courses/nbio-490/">here</a>.</p>
