@@ -31,7 +31,7 @@
 		},
 		{
 			"name": "Dan Birman",
-			"role": "Postdoc",
+			"role": "Postdoc, WRF Postdoctoral Fellow",
 			"img": "Dan",
 			"status": "alumni",
 			"years": "2020-2024",
@@ -39,21 +39,21 @@
 		},
 		{
 			"name": "Anna Bowen",
-			"role": "Postdoc",
+			"role": "Postdoc, HHMI Hanna Gray Fellow",
 			"img": "AnnaB",
 			"status": "active",
 			"url": "https://scholar.google.com/citations?user=EmnJRuwAAAAJ&hl=en"
 		},
 		{
 			"name": "Jordan Shaker",
-			"role": "MD-PhD Student",
+			"role": "MD-PhD Student, NIH F30 Awardee",
 			"img": "Jordan",
 			"status": "active",
 			"url": ""
 		},
 		{
 			"name": "Anna Li",
-			"role": "PhD Student",
+			"role": "PhD Student, NIH F31 Awardee",
 			"img": "AnnaLi",
 			"status": "active",
 			"url": ""
@@ -99,7 +99,7 @@
 		},
 		{
 			"name": "David Ottenheimer",
-			"role": "Postdoc, joint with Stuber Lab",
+			"role": "Postdoc, joint with Stuber Lab, NIH F32 Awardee",
 			"img": "David",
 			"status": "alumni",
 			"years": "2020-2023",
@@ -123,7 +123,7 @@
 		},
 		{
 			"name": "Kai Nylund",
-			"role": "Undergraduate",
+			"role": "Undergraduate, Mary Gates Awardee",
 			"img": "Kai",
 			"status": "alumni",
 			"years": "2021-2022",
@@ -163,14 +163,14 @@
 		},
 		{
 			"name": "Kenneth Yang",
-			"role": "Undergraduate",
+			"role": "Undergraduate, Mary Gates Awardee and WRF Fellow",
 			"img": "Kenneth",
 			"status": "active",
 			"url": ""
 		},
 		{
 			"name": "Jasmine Schoch",
-			"role": "Undergraduate",
+			"role": "Undergraduate, SCGB-SURF Fellow",
 			"img": "Jasmine",
 			"status": "alumni",
 			"years": "2022-2024",
@@ -200,7 +200,7 @@
 		},
 		{
 			"name": "Pascha Matveev",
-			"role": "Undergraduate",
+			"role": "Undergraduate, SCGB-SURF Fellow",
 			"img": "Nadia",
 			"status": "active",
 			"url": ""
