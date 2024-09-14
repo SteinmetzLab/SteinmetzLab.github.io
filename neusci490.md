@@ -20,8 +20,8 @@ permalink: /neusci490/
 	<li>Nick Steinmetz (UW Neurobiology & Biophysics and course director)</li>
 </ul>
 
-<p><h3 style="color: #333333;">Lecturers for Fall 2023</h3>
-<p><ul style="color: #333333;">
+<p><h3 style="color: #999999;">Lecturers for Fall 2023</h3>
+<p><ul style="color: #999999;">
 	<li>Adrienne Fairhall</li>
 	<li>Eric Shea-Brown</li>
 	<li>Eli Shlizerman</li>
@@ -33,8 +33,8 @@ permalink: /neusci490/
 	<li>Nick Steinmetz</li>
 </ul>
 
-<p><h3 style="color: #333333;">Lecturers for Fall 2022</h3>
-<p><ul style="color: #333333;">
+<p><h3 style="color: #999999;">Lecturers for Fall 2022</h3>
+<p><ul style="color: #999999;">
 	<li>Adrienne Fairhall</li>
 	<li>Eric Shea-Brown</li>
 	<li>Rajesh Rao</li>
@@ -46,8 +46,8 @@ permalink: /neusci490/
 	<li>Nick Steinmetz</li>
 </ul>
 
-<p><h3 style="color: #333333;">Lecturers for Fall 2021</h3>
-<p><ul style="color: #333333;">
+<p><h3 style="color: #999999;">Lecturers for Fall 2021</h3>
+<p><ul style="color: #999999;">
 	<li>Adrienne Fairhall</li>
 	<li>Eric Shea-Brown</li>
 	<li>Rajesh Rao</li>
@@ -60,8 +60,8 @@ permalink: /neusci490/
 	<li>Nick Steinmetz</li>
 </ul>
 
-<p><h3 style="color: #333333;">Lecturers for Fall 2020</h3>
-<p><ul style="color: #333333;">
+<p><h3 style="color: #999999;">Lecturers for Fall 2020</h3>
+<p><ul style="color: #999999;">
 	<li>Adrienne Fairhall</li>
 	<li>Eric Shea-Brown</li>
 	<li>Beth Buffalo</li>
