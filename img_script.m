@@ -1,7 +1,7 @@
 
 % source image should be aspect ratio 1920 wide x 1080 tall
 
-name = 'Arshia';
+name = 'Ljuvi';
 type = 'people';
 % name = 'WRF';
 % type = 'posts';
