@@ -62,7 +62,8 @@
 			"name": "Ljuvica Kolich",
 			"role": "Research Scientist",
 			"img": "Ljuvi",
-			"status": "active",
+			"status": "alumni",
+			"years": "2020-2024",
 			"url": ""
 		},
 		{
@@ -247,6 +248,13 @@
 			"img": "Arshia",
 			"status": "alumni",
 			"years": "2024",
+			"url": ""
+		},
+		{
+			"name": "Fabiola Duarte",
+			"role": "Postdoc",
+			"img": "noPhoto",
+			"status": "active",
 			"url": ""
 		}
 
