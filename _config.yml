@@ -21,7 +21,7 @@ navigation: # Navigation links
   - {name: 'Publications', link: '/pubs'}
   - {name: 'Shared Resources', link: '/shared'}
   - {name: 'Teaching', link: '/teaching'}
-  - {name: 'DEI', link: '/dei'}
+  - {name: 'Ethics', link: '/ethics'}
   - {name: 'Join Us', link: '/join'}
   - {name: 'Contact', link: '/contact'}
 
