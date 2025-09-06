@@ -2,6 +2,173 @@
 	"papers": [
 		{
 			"authors": [
+				"Li AJ",
+				"Lu Z",
+				"Ladd AL",
+				"Matveev P",
+				"Shea-Brown E",
+				"Steinmetz NA"
+			],
+			"authors_short": [
+				"Li",
+				"Lu",
+				"Ladd",
+				"Matveev",
+				"Shea-Brown",
+				"Steinmetz"
+			],
+			"title": "Global and local origins of trial-to-trial spike count variability in visual cortex",
+			"year": "2025",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2025.08.08.669442",
+			"tags": [
+				"selected",
+				"preprint",
+				"neuropixels",
+				"vision",
+				"cortex",
+				"population",
+				"brainwide",
+				"optogenetics"
+			]
+		},
+		{
+			"authors": [
+				"Matveev P",
+				"Li AJ",
+				"Ye Z",
+				"Bowen AJ",
+				"Opitz-Araya X",
+				"Ting JT",
+				"Steinmetz NA"
+			],
+			"authors_short": [
+				"Matveev",
+				"Li",
+				"Ye",
+				"Bowen",
+				"Opitz-Araya",
+				"Ting",
+				"Steinmetz"
+			],
+			"title": "Simultaneous mesoscopic measurement and manipulation of mouse cortical activity",
+			"year": "2024",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2024.11.01.621418",
+			"tags": [
+				"preprint",
+				"selected",
+				"widefield",
+				"optogenetics",
+				"cortex",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
+				"Ye Z*", 
+				"Shelton A*",
+				"Shaker J",
+				"Boussard J",
+				"Colonell J",
+				"...",
+				"Mora Lopez C",
+				"Dutta B",
+				"Paninski L",
+				"Siegle JH",
+				"Koch C",
+				"Olsen SR",
+				"Harris TD",
+				"Steinmetz NA"
+			],
+			"authors_short": [
+				"Ye*", 
+				"Shelton*",
+				"Shaker",
+				"Boussard",
+				"Colonell",
+				"...",
+				"Mora Lopez",
+				"Dutta",
+				"Paninski",
+				"Siegle",
+				"Koch",
+				"Olsen",
+				"Harris",
+				"Steinmetz"
+			],
+			"title": "Ultra-high density electrodes improve detection, yield, and cell type specificity of brain recordings",
+			"year": "2025",
+			"journal": "Neuron (in press)",
+			"link": "https://www.biorxiv.org/content/10.1101/2023.08.23.554527",
+			"tags": [
+				"selected",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
+				"Findling C", 
+				"Hubert F",
+				"The International Brain Laboratory",
+				"...",
+				"Birman D",
+				"Roth N",
+				"Steinmetz NA",
+				"et al."
+			],
+			"authors_short": [
+				"Findling",
+				"Hubert",
+				"<a href=http://www.internationalbrainlab.org>The International Brain Laboratory</a>",
+				"...",
+				"Birman",
+				"Roth",
+				"Steinmetz",
+				"et al."
+			],
+			"title": "Brain-wide representations of prior information in mouse decision-making",
+			"year": "2025",
+			"journal": "Nature",
+			"link": "https://doi.org/10.1038/s41586-025-09226-1",
+			"tags": [
+				"peerReview",
+				"selected",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
+				"The International Brain Laboratory",
+				"...",
+				"Birman D",
+				"Roth N",
+				"Steinmetz NA",
+				"et al."
+			],
+			"authors_short": [
+				"<a href=http://www.internationalbrainlab.org>The International Brain Laboratory</a>",
+				"...",
+				"Birman",
+				"Roth",
+				"Steinmetz",
+				"et al."
+			],
+			"title": "A brain-wide map of neural activity during complex behaviour",
+			"year": "2025",
+			"journal": "Nature",
+			"link": "https://doi.org/10.1038/s41586-025-09235-0",
+			"tags": [
+				"peerReview",
+				"selected",
+				"neuropixels",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Yu H",
 				"Lyu H", 
 				"Xu EY",
@@ -141,49 +308,6 @@
 		},
 		{
 			"authors": [
-				"Ye Z*", 
-				"Shelton A*",
-				"Shaker J",
-				"Boussard J",
-				"Colonell J",
-				"...",
-				"Mora Lopez C",
-				"Dutta B",
-				"Paninski L",
-				"Siegle JH",
-				"Koch C",
-				"Olsen SR",
-				"Harris TD",
-				"Steinmetz NA"
-			],
-			"authors_short": [
-				"Ye*", 
-				"Shelton*",
-				"Shaker",
-				"Boussard",
-				"Colonell",
-				"...",
-				"Mora Lopez",
-				"Dutta",
-				"Paninski",
-				"Siegle",
-				"Koch",
-				"Olsen",
-				"Harris",
-				"Steinmetz"
-			],
-			"title": "Ultra-high density electrodes improve detection, yield, and cell type specificity of brain recordings",
-			"year": "2025",
-			"journal": "Neuron (in press)",
-			"link": "https://www.biorxiv.org/content/10.1101/2023.08.23.554527",
-			"tags": [
-				"selected",
-				"neuropixels",
-				"brainwide"
-			]
-		},
-		{
-			"authors": [
 				"Birman D", 
 				"Yang KJ",
 				"West SJ",
@@ -208,66 +332,6 @@
 			"journal": "eLife [Reviewed Preprint]",
 			"link": "https://elifesciences.org/reviewed-preprints/91662",
 			"tags": [
-				"selected",
-				"neuropixels",
-				"brainwide"
-			]
-		},
-		{
-			"authors": [
-				"Findling C", 
-				"Hubert F",
-				"The International Brain Laboratory",
-				"...",
-				"Birman D",
-				"Roth N",
-				"Steinmetz NA",
-				"et al."
-			],
-			"authors_short": [
-				"Findling",
-				"Hubert",
-				"<a href=http://www.internationalbrainlab.org>The International Brain Laboratory</a>",
-				"...",
-				"Birman",
-				"Roth",
-				"Steinmetz",
-				"et al."
-			],
-			"title": "Brain-wide representations of prior information in mouse decision-making",
-			"year": "2025",
-			"journal": "Nature",
-			"link": "https://doi.org/10.1038/s41586-025-09226-1",
-			"tags": [
-				"peerReview",
-				"selected",
-				"neuropixels",
-				"brainwide"
-			]
-		},
-		{
-			"authors": [
-				"The International Brain Laboratory",
-				"...",
-				"Birman D",
-				"Roth N",
-				"Steinmetz NA",
-				"et al."
-			],
-			"authors_short": [
-				"<a href=http://www.internationalbrainlab.org>The International Brain Laboratory</a>",
-				"...",
-				"Birman",
-				"Roth",
-				"Steinmetz",
-				"et al."
-			],
-			"title": "A brain-wide map of neural activity during complex behaviour",
-			"year": "2025",
-			"journal": "Nature",
-			"link": "https://doi.org/10.1038/s41586-025-09235-0",
-			"tags": [
-				"peerReview",
 				"selected",
 				"neuropixels",
 				"brainwide"
