@@ -22,22 +22,6 @@
 			"url": "https://www.yezhiwen.com/"
 		},
 		{
-			"name": "Noam Roth",
-			"role": "Postdoc",
-			"img": "Noam",
-			"status": "alumni",
-			"years": "2020-2023",
-			"url": ""
-		},
-		{
-			"name": "Dan Birman",
-			"role": "Postdoc, WRF Postdoctoral Fellow",
-			"img": "Dan",
-			"status": "alumni",
-			"years": "2020-2024",
-			"url": "https://danbirman.com/"
-		},
-		{
 			"name": "Anna Bowen",
 			"role": "Postdoc, HHMI Hanna Gray Fellow",
 			"img": "AnnaB",
@@ -59,130 +43,10 @@
 			"url": ""
 		},
 		{
-			"name": "Ljuvica Kolich",
-			"role": "Research Scientist",
-			"img": "Ljuvi",
-			"status": "alumni",
-			"years": "2020-2024",
-			"url": ""
-		},
-		{
-			"name": "Haili Adams",
-			"role": "Research Scientist",
-			"img": "Haili",
-			"status": "alumni",
-			"years": "2019-2021",
-			"url": ""
-		},
-		{
-			"name": "Hailey Barrell",
-			"role": "Undergraduate",
-			"img": "Hailey",
-			"status": "alumni",
-			"years": "2019-2023",
-			"url": ""
-		},
-		{
-			"name": "Sameer Apdalhaliem",
-			"role": "Undergraduate",
-			"img": "Sameer",
-			"status": "alumni",
-			"years": "2019-2020",
-			"url": ""
-		},
-		{
-			"name": "Renee Wang",
-			"role": "Undergraduate, SCGB-SURF Fellow",
-			"img": "Renee",
-			"status": "alumni",
-			"years": "2019-2022",
-			"url": ""
-		},
-		{
-			"name": "David Ottenheimer",
-			"role": "Postdoc, joint with Stuber Lab, NIH F32 Awardee",
-			"img": "David",
-			"status": "alumni",
-			"years": "2020-2023",
-			"url": "https://davidottenheimer.com/"
-		},
-		{
-			"name": "Jeesoo Yoon",
-			"role": "Undergraduate",
-			"img": "Jeesoo",
-			"status": "alumni",
-			"years": "2020-2023",
-			"url": ""
-		},
-		{
-			"name": "Jay Bhateja",
-			"role": "Undergraduate",
-			"img": "Jay",
-			"status": "alumni",
-			"years": "2020-2022",
-			"url": ""
-		},
-		{
-			"name": "Kai Nylund",
-			"role": "Undergraduate, Mary Gates Awardee",
-			"img": "Kai",
-			"status": "alumni",
-			"years": "2021-2022",
-			"url": ""
-		},
-		{
-			"name": "Julia Hopkins",
-			"role": "Undergraduate, SCGB-SURF Fellow",
-			"img": "Julia",
-			"status": "alumni",
-			"years": "2021-2023",
-			"url": ""
-		},
-		{
-			"name": "Shae McNeil",
-			"role": "Undergraduate; former high-school summer student",
-			"img": "Shae",
-			"status": "alumni",
-			"years": "2021; 2024",
-			"url": ""
-		},
-		{
-			"name": "Nyah Stevenson",
-			"role": "High school student, Basic Sciences Summer Research Program",
-			"img": "Nyah",
-			"status": "alumni",
-			"years": "2022",
-			"url": ""
-		},
-		{
-			"name": "Qiqi Liang",
-			"role": "Undergraduate",
-			"img": "noPhoto",
-			"status": "alumni",
-			"years": "2022",
-			"url": ""
-		},
-		{
 			"name": "Kenneth Yang",
 			"role": "Undergraduate, Mary Gates Awardee and WRF Fellow",
 			"img": "Kenneth",
 			"status": "active",
-			"url": ""
-		},
-		{
-			"name": "Jasmine Schoch",
-			"role": "Undergraduate, SCGB-SURF Fellow",
-			"img": "Jasmine",
-			"status": "alumni",
-			"years": "2022-2024",
-			"url": ""
-		},
-		{
-			"name": "Bethania Bahru",
-			"role": "High school student, BRIGHT-UP Program",
-			"img": "Bethania",
-			"status": "alumni",
-			"years": "2023",
 			"url": ""
 		},
 		{
@@ -193,34 +57,10 @@
 			"url": ""
 		},
 		{
-			"name": "Jeremy Schroeter",
-			"role": "Research Scientist",
-			"img": "Jeremy",
-			"status": "alumni",
-			"years": "2023-2025",
-			"url": "https://jeremyschroeter.com/"
-		},
-		{
-			"name": "Pascha Matveev",
-			"role": "Undergraduate, SCGB-SURF Fellow",
-			"img": "Nadia",
-			"status": "alumni",
-			"years": "2023-2025",
-			"url": ""
-		},
-		{
 			"name": "Rachel Yin",
 			"role": "Undergraduate, SCGB SURFiN Fellow and Mary Gates Awardee",
 			"img": "Rachel",
 			"status": "active",
-			"url": ""
-		},
-		{
-			"name": "Christina Wang",
-			"role": "Rotating graduate student",
-			"img": "Christina",
-			"status": "alumni",
-			"years": "2023",
 			"url": ""
 		},
 		{
@@ -245,18 +85,26 @@
 			"url": "https://xanderladd.github.io/"
 		},
 		{
-			"name": "Arshia Kathpalia",
-			"role": "High school student, BRIGHT-UP Program",
-			"img": "Arshia",
-			"status": "alumni",
-			"years": "2024",
-			"url": ""
-		},
-		{
 			"name": "Fabiola Duarte",
 			"role": "Postdoc",
 			"img": "Fabiola",
 			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Jeremy Schroeter",
+			"role": "Research Scientist",
+			"img": "Jeremy",
+			"status": "alumni",
+			"years": "2023-2025",
+			"url": "https://jeremyschroeter.com/"
+		},
+		{
+			"name": "Pascha Matveev",
+			"role": "Undergraduate, SCGB-SURF Fellow",
+			"img": "Nadia",
+			"status": "alumni",
+			"years": "2023-2025",
 			"url": ""
 		},
 		{
@@ -273,6 +121,158 @@
 			"img": "noPhoto",
 			"status": "alumni",
 			"years": "2025",
+			"url": ""
+		},		
+		{
+			"name": "Dan Birman",
+			"role": "Postdoc, WRF Postdoctoral Fellow",
+			"img": "Dan",
+			"status": "alumni",
+			"years": "2020-2024",
+			"url": "https://danbirman.com/"
+		},
+		{
+			"name": "Ljuvica Kolich",
+			"role": "Research Scientist",
+			"img": "Ljuvi",
+			"status": "alumni",
+			"years": "2020-2024",
+			"url": ""
+		},
+		{
+			"name": "Jasmine Schoch",
+			"role": "Undergraduate, SCGB-SURF Fellow",
+			"img": "Jasmine",
+			"status": "alumni",
+			"years": "2022-2024",
+			"url": ""
+		},
+		{
+			"name": "Shae McNeil",
+			"role": "Undergraduate; former high-school summer student",
+			"img": "Shae",
+			"status": "alumni",
+			"years": "2021; 2024",
+			"url": ""
+		},
+		{
+			"name": "Arshia Kathpalia",
+			"role": "High school student, BRIGHT-UP Program",
+			"img": "Arshia",
+			"status": "alumni",
+			"years": "2024",
+			"url": ""
+		},
+		{
+			"name": "Noam Roth",
+			"role": "Postdoc",
+			"img": "Noam",
+			"status": "alumni",
+			"years": "2020-2023",
+			"url": ""
+		},
+		{
+			"name": "David Ottenheimer",
+			"role": "Postdoc, joint with Stuber Lab, NIH F32 Awardee",
+			"img": "David",
+			"status": "alumni",
+			"years": "2020-2023",
+			"url": "https://davidottenheimer.com/"
+		},
+		{
+			"name": "Hailey Barrell",
+			"role": "Undergraduate",
+			"img": "Hailey",
+			"status": "alumni",
+			"years": "2019-2023",
+			"url": ""
+		},
+		{
+			"name": "Julia Hopkins",
+			"role": "Undergraduate, SCGB-SURF Fellow",
+			"img": "Julia",
+			"status": "alumni",
+			"years": "2021-2023",
+			"url": ""
+		},
+		{
+			"name": "Jeesoo Yoon",
+			"role": "Undergraduate",
+			"img": "Jeesoo",
+			"status": "alumni",
+			"years": "2020-2023",
+			"url": ""
+		},
+		{
+			"name": "Christina Wang",
+			"role": "Rotating graduate student",
+			"img": "Christina",
+			"status": "alumni",
+			"years": "2023",
+			"url": ""
+		},
+		{
+			"name": "Bethania Bahru",
+			"role": "High school student, BRIGHT-UP Program",
+			"img": "Bethania",
+			"status": "alumni",
+			"years": "2023",
+			"url": ""
+		},
+		{
+			"name": "Renee Wang",
+			"role": "Undergraduate, SCGB-SURF Fellow",
+			"img": "Renee",
+			"status": "alumni",
+			"years": "2019-2022",
+			"url": ""
+		},
+		{
+			"name": "Kai Nylund",
+			"role": "Undergraduate, Mary Gates Awardee",
+			"img": "Kai",
+			"status": "alumni",
+			"years": "2021-2022",
+			"url": ""
+		},
+		{
+			"name": "Jay Bhateja",
+			"role": "Undergraduate",
+			"img": "Jay",
+			"status": "alumni",
+			"years": "2020-2022",
+			"url": ""
+		},
+		{
+			"name": "Qiqi Liang",
+			"role": "Undergraduate",
+			"img": "noPhoto",
+			"status": "alumni",
+			"years": "2022",
+			"url": ""
+		},
+		{
+			"name": "Nyah Stevenson",
+			"role": "High school student, Basic Sciences Summer Research Program",
+			"img": "Nyah",
+			"status": "alumni",
+			"years": "2022",
+			"url": ""
+		},
+		{
+			"name": "Haili Adams",
+			"role": "Research Scientist",
+			"img": "Haili",
+			"status": "alumni",
+			"years": "2019-2021",
+			"url": ""
+		},
+		{
+			"name": "Sameer Apdalhaliem",
+			"role": "Undergraduate",
+			"img": "Sameer",
+			"status": "alumni",
+			"years": "2019-2020",
 			"url": ""
 		}
 
