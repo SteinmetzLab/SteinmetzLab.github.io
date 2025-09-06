@@ -124,8 +124,8 @@
 				"Steinmetz"
 			],
 			"title": "Ultra-high density electrodes improve detection, yield, and cell type specificity of brain recordings",
-			"year": "2023",
-			"journal": "bioRxiv",
+			"year": "2025",
+			"journal": "Neuron",
 			"link": "https://www.biorxiv.org/content/10.1101/2023.08.23.554527",
 			"tags": [
 				"selected",
@@ -187,9 +187,9 @@
 				"et al."
 			],
 			"title": "Brain-wide representations of prior information in mouse decision-making",
-			"year": "2023",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/10.1101/2023.07.04.547684",
+			"year": "2025",
+			"journal": "Nature",
+			"link": "https://doi.org/10.1038/s41586-025-09226-1",
 			"tags": [
 				"selected",
 				"preprint",
@@ -215,9 +215,9 @@
 				"et al."
 			],
 			"title": "A brain-wide map of neural activity during complex behaviour",
-			"year": "2023",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/10.1101/2023.07.04.547681",
+			"year": "2025",
+			"journal": "Nature",
+			"link": "https://doi.org/10.1038/s41586-025-09235-0",
 			"tags": [
 				"selected",
 				"preprint",
@@ -272,9 +272,9 @@
 				"Paik"
 			],
 			"title": "Hierarchical gradient of timescales in the mammalian forebrain",
-			"year": "2023",
-			"journal": "bioRxiv",
-			"link": "https://doi.org/10.1101/2023.05.12.540610",
+			"year": "2024",
+			"journal": "PNAS",
+			"link": "https://doi.org/10.1073/pnas.2415695121",
 			"tags": [
 				"selected",
 				"preprint",
@@ -317,8 +317,8 @@
 			],
 			"title": "Bypassing spike sorting: Density-based decoding using spike localization from dense multielectrode probes",
 			"year": "2023",
-			"journal": "bioRxiv",
-			"link": "https://doi.org/10.1101/2023.09.21.558869",
+			"journal": "NeurIPS",
+			"link": "https://proceedings.neurips.cc/paper_files/paper/2023/file/f499387f191d6be56e68966181095878-Paper-Conference.pdf",
 			"tags": [
 				"selected",
 				"preprint",
@@ -348,9 +348,9 @@
 				"Varol"
 			],
 			"title": "DREDge: robust motion correction for high-density extracellular recordings across species",
-			"year": "2023",
-			"journal": "bioRxiv",
-			"link": "https://doi.org/10.1101/2023.10.24.563768",
+			"year": "2025",
+			"journal": "Nature Methods",
+			"link": "https://doi.org/10.1038/s41592-025-02614-5",
 			"tags": [
 				"selected",
 				"preprint",
@@ -400,9 +400,9 @@
 				"et al."
 			],
 			"title": "Reproducibility of in-vivo electrophysiological measurements in mice",
-			"year": "2022",
-			"journal": "bioRxiv",
-			"link": "https://www.biorxiv.org/content/10.1101/2022.05.09.491042",
+			"year": "2025",
+			"journal": "eLife",
+			"link": "https://doi.org/10.7554/eLife.100840.3",
 			"tags": [
 				"preprint",
 				"selected",
