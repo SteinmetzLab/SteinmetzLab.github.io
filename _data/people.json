@@ -196,14 +196,16 @@
 			"name": "Jeremy Schroeter",
 			"role": "Research Scientist",
 			"img": "Jeremy",
-			"status": "active",
+			"status": "alumni",
+			"years": "2023-2025",
 			"url": "https://jeremyschroeter.com/"
 		},
 		{
 			"name": "Pascha Matveev",
 			"role": "Undergraduate, SCGB-SURF Fellow",
 			"img": "Nadia",
-			"status": "active",
+			"status": "alumni",
+			"years": "2023-2025",
 			"url": ""
 		},
 		{
@@ -238,7 +240,7 @@
 		{
 			"name": "Xander Ladd",
 			"role": "PhD student",
-			"img": "noPhoto",
+			"img": "Xander",
 			"status": "active",
 			"url": "https://xanderladd.github.io/"
 		},
@@ -253,8 +255,24 @@
 		{
 			"name": "Fabiola Duarte",
 			"role": "Postdoc",
+			"img": "Fabiola",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Allison Lin",
+			"role": "High school student",
+			"img": "noPhoto",
+			"status": "alumni",
+			"years": "2025",
+			"url": ""
+		},
+		{
+			"name": "Sophia Varilla",
+			"role": "High school student",
 			"img": "noPhoto",
 			"status": "active",
+			"years": "2025",
 			"url": ""
 		}
 
