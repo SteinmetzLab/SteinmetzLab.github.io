@@ -34,6 +34,88 @@
 		},
 		{
 			"authors": [
+				"Lakunina A",
+				"Socha KZ",
+				"Ladd A",
+				"Bowen AJ",
+				"...",
+				"Li A",
+				"...",
+				"Ye Z",
+				"...",
+				"Steinmetz NA",
+				"Svoboda K",
+				"Siegle JH",
+				"Carandini M"
+			],
+			"authors_short": [
+				"Lakunina",
+				"Socha",
+				"Ladd",
+				"Bowen",
+				"...",
+				"Li",
+				"...",
+				"Ye",
+				"...",
+				"Steinmetz",
+				"Svoboda",
+				"Siegle",
+				"Carandini"
+			],
+			"title": "Neuropixels Opto: Combining high-resolution electrophysiology and optogenetics",
+			"year": "2025",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2025.02.04.636286",
+			"tags": [
+				"preprint",
+				"selected",
+				"neuropixels",
+				"optogenetics",
+				"methods"
+			]
+		},
+		{
+			"authors": [
+				"Lee EK",
+				"Gül AE",
+				"Heller G",
+				"Lakunina A",
+				"Yu H",
+				"Shelton A",
+				"Olsen S",
+				"Steinmetz NA",
+				"Hurwitz C",
+				"Jaramillo S",
+				"Przytycki PF",
+				"Chandrasekaran C"
+			],
+			"authors_short": [
+				"Lee",
+				"Gül",
+				"Heller",
+				"Lakunina",
+				"Yu",
+				"Shelton",
+				"Olsen",
+				"Steinmetz",
+				"Hurwitz",
+				"Jaramillo",
+				"Przytycki",
+				"Chandrasekaran"
+			],
+			"title": "A multimodal approach for visualization and identification of electrophysiological cell types in vivo",
+			"year": "2025",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2025.07.24.666654",
+			"tags": [
+				"preprint",
+				"neuropixels",
+				"methods"
+			]
+		}
+		{
+			"authors": [
 				"Matveev P",
 				"Li AJ",
 				"Ye Z",
@@ -62,6 +144,74 @@
 				"optogenetics",
 				"cortex",
 				"brainwide"
+			]
+		},
+		{
+			"authors": [
+				"Birman D",
+				"Chapuis G",
+				"Faulkner M",
+				"Rossant C",
+				"the International Brain Laboratory",
+				"...",
+				"Steinmetz NA",
+				"Urai AE",
+				"Wells MJ",
+				"West SJ",
+				"Winter O"
+			],
+			"authors_short": [
+				"Birman",
+				"Chapuis",
+				"Faulkner",
+				"Rossant",
+				"<a href=http://www.internationalbrainlab.org>the International Brain Laboratory</a>",
+				"...",
+				"Steinmetz",
+				"Urai",
+				"Wells",
+				"West",
+				"Winter"
+			],
+			"title": "Interactive data exploration websites for large-scale electrophysiology",
+			"year": "2024",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2024.06.07.597950",
+			"tags": [
+				"preprint",
+				"IBL",
+				"neuropixels",
+				"brainwide",
+				"methods"
+			]
+		},
+		{
+			"authors": [
+				"Lewis SM",
+				"Suarez LM",
+				"Rigolli N",
+				"Franks KM",
+				"Steinmetz NA",
+				"Gire DH"
+			],
+			"authors_short": [
+				"Lewis",
+				"Suarez",
+				"Rigolli",
+				"Franks",
+				"Steinmetz",
+				"Gire"
+			],
+			"title": "The spiking output of the mouse olfactory bulb encodes large-scale temporal features of natural odor environments",
+			"year": "2024",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2024.03.01.582978",
+			"tags": [
+				"preprint",
+				"neuropixels",
+				"olfaction",
+				"population",
+				"behavior"
 			]
 		},
 		{
