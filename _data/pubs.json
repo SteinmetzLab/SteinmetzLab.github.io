@@ -2,6 +2,54 @@
 	"papers": [
 		{
 			"authors": [
+				"Yu H",
+				"Lyu H", 
+				"Xu EY",
+				"Windolf C",
+				"Lee EK",
+				"Yang F",
+				"Shelton AM",
+				"Olsen S",
+				"Minavi S",
+				"Winter O",
+				"International Brain Laboratory",
+				"Dyer EL",
+				"Chandrasekaran C",
+				"Steinmetz NA",
+				"Paninski L",
+				"Hurwitz C"
+			],
+			"authors_short": [
+				"Yu",
+				"Lyu",
+				"Xu", 
+				"Windolf",
+				"Lee",
+				"Yang",
+				"Shelton",
+				"Olsen",
+				"Minavi",
+				"Winter",
+				"International Brain Laboratory",
+				"Dyer",
+				"Chandrasekaran",
+				"Steinmetz",
+				"Paninski",
+				"Hurwitz"
+			],
+			"title": "In vivo cell-type and brain region classification via multimodal contrastive learning",
+			"year": "2025",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2024.11.05.622159",
+			"tags": [
+				"preprint",
+				"neuropixels",
+				"brainwide",
+				"IBL"
+			]
+		}, 
+		{
+			"authors": [
 				"Deveau C", 
 				"Zhou Z",
 				"LaFosse PK",
@@ -52,6 +100,7 @@
 			"journal": "Science Advances",
 			"link": "https://doi.org/10.1126/sciadv.adi0645",
 			"tags": [
+				"peerReview",
 				"attention",
 				"vision", 
 				"psychophysics"
@@ -125,11 +174,10 @@
 			],
 			"title": "Ultra-high density electrodes improve detection, yield, and cell type specificity of brain recordings",
 			"year": "2025",
-			"journal": "Neuron",
+			"journal": "Neuron (in press)",
 			"link": "https://www.biorxiv.org/content/10.1101/2023.08.23.554527",
 			"tags": [
 				"selected",
-				"preprint",
 				"neuropixels",
 				"brainwide"
 			]
@@ -191,8 +239,8 @@
 			"journal": "Nature",
 			"link": "https://doi.org/10.1038/s41586-025-09226-1",
 			"tags": [
+				"peerReview",
 				"selected",
-				"preprint",
 				"neuropixels",
 				"brainwide"
 			]
@@ -219,8 +267,8 @@
 			"journal": "Nature",
 			"link": "https://doi.org/10.1038/s41586-025-09235-0",
 			"tags": [
+				"peerReview",
 				"selected",
-				"preprint",
 				"neuropixels",
 				"brainwide"
 			]
@@ -245,6 +293,7 @@
 			"journal": "eLife",
 			"link": "https://elifesciences.org/articles/84604",
 			"tags": [
+				"peerReview",
 				"selected",
 				"neuropixels",
 				"brainwide"
@@ -276,8 +325,7 @@
 			"journal": "PNAS",
 			"link": "https://doi.org/10.1073/pnas.2415695121",
 			"tags": [
-				"selected",
-				"preprint",
+				"peerReview",
 				"neuropixels",
 				"brainwide"
 			]
@@ -316,11 +364,11 @@
 				"Paninski"
 			],
 			"title": "Bypassing spike sorting: Density-based decoding using spike localization from dense multielectrode probes",
-			"year": "2023",
+			"year": "2024",
 			"journal": "NeurIPS",
 			"link": "https://proceedings.neurips.cc/paper_files/paper/2023/file/f499387f191d6be56e68966181095878-Paper-Conference.pdf",
 			"tags": [
-				"selected",
+				"peerReview",
 				"neuropixels",
 				"brainwide"
 			]
@@ -351,8 +399,8 @@
 			"journal": "Nature Methods",
 			"link": "https://doi.org/10.1038/s41592-025-02614-5",
 			"tags": [
+				"peerReview",
 				"selected",
-				"preprint",
 				"neuropixels",
 				"brainwide"
 			]
@@ -377,6 +425,7 @@
 			"journal": "Patterns",
 			"link": "https://doi.org/10.1016/j.patter.2022.100555",
 			"tags": [
+				"peerReview",
 				"selected",
 				"neuropixels"
 			]
@@ -403,7 +452,7 @@
 			"journal": "eLife",
 			"link": "https://doi.org/10.7554/eLife.100840.3",
 			"tags": [
-				"preprint",
+				"peerReview",
 				"selected",
 				"neuropixels",
 				"IBL"
@@ -640,7 +689,6 @@
 			"link": "https://iopscience.iop.org/article/10.1088/2634-4386/ac0a5a/meta",
 			"tags": [
 				"peerReview",
-				"selected",
 				"modeling",
 				"attention"
 			]
@@ -672,7 +720,6 @@
 			"link": "https://www.nature.com/articles/s41467-023-37613-7",
 			"tags": [
 				"vision",
-				"selected",
 				"attention"
 			]
 		},
