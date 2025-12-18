@@ -2,6 +2,39 @@
 	"papers": [
 		{
 			"authors": [
+				"Lu Z",
+				"Li AJ",
+				"Ladd AL",
+				"Matveev P",
+				"Deole A",
+				"Shea-Brown E",
+				"Kutz JN",
+				"Steinmetz NA"
+			],
+			"authors_short": [
+				"Lu",
+				"Li",
+				"Ladd",
+				"Matveev",
+				"Deole",
+				"Shea-Brown",
+				"Kutz",
+				"Steinmetz"
+			],
+			"title": "Benchmarking Probabilistic Time Series Forecasting Models on Neural Activity",
+			"year": "2025",
+			"journal": "arXiv",
+			"link": "https://doi.org/10.48550/arXiv.2510.18037",
+			"tags": [
+				"selected",
+				"preprint",
+				"widefield",
+				"cortex",
+				"brainwide"
+			]
+		},
+		{
+			"authors": [
 				"Li AJ",
 				"Lu Z",
 				"Ladd AL",
