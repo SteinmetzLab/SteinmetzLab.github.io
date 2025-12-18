@@ -139,10 +139,9 @@
 			],
 			"title": "A multimodal approach for visualization and identification of electrophysiological cell types in vivo",
 			"year": "2025",
-			"journal": "bioRxiv",
+			"journal": "Nature Communications (in press)",
 			"link": "https://doi.org/10.1101/2025.07.24.666654",
 			"tags": [
-				"preprint",
 				"neuropixels",
 				"methods"
 			]
@@ -418,11 +417,10 @@
 				"Histed"
 			],
 			"title": "Active filtering of sequences of neural activity by recurrent circuits of sensory cortex",
-			"year": "2024",
-			"journal": "bioRxiv",
+			"year": "2025",
+			"journal": "Neuron (in press)",
 			"link": "https://doi.org/10.1101/2024.02.24.581890",
 			"tags": [
-				"preprint",
 				"vision", 
 				"psychophysics",
 				"neuropixels"
