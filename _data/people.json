@@ -43,13 +43,6 @@
 			"url": ""
 		},
 		{
-			"name": "Kenneth Yang",
-			"role": "Undergraduate, Mary Gates Awardee and WRF Fellow",
-			"img": "Kenneth",
-			"status": "active",
-			"url": ""
-		},
-		{
 			"name": "Kim Miller",
 			"role": "Research Scientist",
 			"img": "Kim",
@@ -89,6 +82,42 @@
 			"role": "Postdoc",
 			"img": "Fabiola",
 			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Alice Gettig",
+			"role": "Undergraduate",
+			"img": "Fabiola",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Hirosuke Takahashi",
+			"role": "Undergraduate",
+			"img": "Fabiola",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Aditya Deole",
+			"role": "Postdoc",
+			"img": "Fabiola",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Zhorzh Zelenkov",
+			"role": "Undergraduate",
+			"img": "Fabiola",
+			"status": "active",
+			"url": ""
+		},
+		{
+			"name": "Kenneth Yang",
+			"role": "Undergraduate, Mary Gates Awardee and WRF Fellow",
+			"img": "Kenneth",
+			"status": "alumni",
+			"years": "2022-2025",
 			"url": ""
 		},
 		{
