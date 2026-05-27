@@ -2,6 +2,128 @@
 	"papers": [
 		{
 			"authors": [
+				"Hjort MM",
+				"Garrett ZQ",
+				"Gordon AG",
+				"Ancell E",
+				"Trzeciak M",
+				"Lu PY",
+				"Bruchas MR",
+				"Witten DM",
+				"Steinmetz NA",
+				"Stuber GD"
+			],
+			"authors_short": [
+				"Hjort",
+				"Garrett",
+				"Gordon",
+				"Ancell",
+				"Trzeciak",
+				"Lu",
+				"Bruchas",
+				"Witten",
+				"Steinmetz",
+				"Stuber"
+			],
+			"title": "Prefrontal to ventral tegmental area dynamics drive contingency degradation",
+			"year": "2026",
+			"journal": "Nature",
+			"link": "https://doi.org/10.1038/s41586-026-10443-5",
+			"pdflink": "Hjort et al - 2026 - Nature.pdf",
+			"tags": [
+				"peerReview",
+				"selected",
+				"neuropixels",
+				"behavior",
+				"cortex"
+			]
+		},
+		{
+			"authors": [
+				"Shaker JR",
+				"Schroeter JN",
+				"Birman D",
+				"Steinmetz NA"
+			],
+			"authors_short": [
+				"Shaker",
+				"Schroeter",
+				"Birman",
+				"Steinmetz"
+			],
+			"title": "The midbrain reticular formation in contextual control of perceptual decisions",
+			"year": "2026",
+			"journal": "Neuron",
+			"link": "https://doi.org/10.1016/j.neuron.2026.04.003",
+			"pdflink": "Shaker et al - 2026 - Neuron.pdf",
+			"tags": [
+				"peerReview",
+				"selected",
+				"neuropixels",
+				"brainwide",
+				"behavior",
+				"cortex",
+				"vision"
+			]
+		},
+		{
+			"authors": [
+				"Siegle JH",
+				"Steinmetz NA"
+			],
+			"authors_short": [
+				"Siegle",
+				"Steinmetz"
+			],
+			"title": "Large-scale electrophysiology at single-spike resolution",
+			"year": "2026",
+			"journal": "Nature Reviews Neuroscience",
+			"link": "https://doi.org/10.1038/s41583-026-01042-4",
+			"pdflink": "Siegle Steinmetz - 2026 - NRN.pdf",
+			"tags": [
+				"review",
+				"peerReview",
+				"selected",
+				"neuropixels"
+			]
+		},
+		{
+			"authors": [
+				"Roth N",
+				"Chapuis G",
+				"Winter O",
+				"IBL",
+				"Ressmeyer R", 
+				"Bun LM", 
+				"Canfield RA", 
+				"Horwitz GD",
+				"Steinmetz NA"
+			],
+			"authors_short": [
+				"Roth",
+				"Chapuis",
+				"Winter",
+				"IBL",
+				"Ressmeyer", 
+				"Bun", 
+				"Canfield", 
+				"Horwitz",
+				"Steinmetz"
+			],
+			"title": "A flexible quality metric for electrophysiological recordings across brain regions and species",
+			"year": "2026",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2026.03.06.710130",
+			"pdflink": "Roth et al - 2026 - bioRxiv.pdf",
+			"tags": [
+				"preprint",
+				"IBL",
+				"neuropixels",
+				"methods"
+			]
+		},
+		{
+			"authors": [
 				"Lu Z",
 				"Li AJ",
 				"Ladd AL",
@@ -98,7 +220,7 @@
 			],
 			"title": "Neuropixels Opto: Combining high-resolution electrophysiology and optogenetics",
 			"year": "2025",
-			"journal": "bioRxiv",
+			"journal": "Nature Methods (in press)",
 			"link": "https://doi.org/10.1101/2025.02.04.636286",
 			"tags": [
 				"preprint",
@@ -137,11 +259,13 @@
 				"Przytycki",
 				"Chandrasekaran"
 			],
-			"title": "A multimodal approach for visualization and identification of electrophysiological cell types in vivo",
-			"year": "2025",
-			"journal": "Nature Communications (in press)",
-			"link": "https://doi.org/10.1101/2025.07.24.666654",
+			"title": "A multimodal approach for visualizing and identifying electrophysiological cell types in vivo",
+			"year": "2026",
+			"journal": "Nature Communications",
+			"link": "https://doi.org/10.1038/s41467-026-71331-0",
+			"pdflink": "Lee et al - 2026 - Nat Comm.pdf",
 			"tags": [
+				"peerReview",
 				"neuropixels",
 				"methods"
 			]
@@ -279,11 +403,13 @@
 				"Harris",
 				"Steinmetz"
 			],
-			"title": "Ultra-high density electrodes improve detection, yield, and cell type specificity of brain recordings",
+			"title": "Ultra-high-density Neuropixels probes improve detection and identification in neuronal recordings",
 			"year": "2025",
 			"journal": "Neuron",
 			"link": "https://doi.org/10.1016/j.neuron.2025.08.030",
+			"pdflink": "Ye et al - 2025 - Neuron.pdf",
 			"tags": [
+				"peerReview",
 				"selected",
 				"neuropixels",
 				"brainwide"
@@ -416,14 +542,17 @@
 				"Steinmetz",
 				"Histed"
 			],
-			"title": "Active filtering of sequences of neural activity by recurrent circuits of sensory cortex",
-			"year": "2025",
-			"journal": "Neuron (in press)",
-			"link": "https://doi.org/10.1101/2024.02.24.581890",
+			"title": "Recurrent cortical networks encode natural sensory statistics via sequence filtering",
+			"year": "2026",
+			"journal": "Neuron",
+			"link": "https://doi.org/10.1016/j.neuron.2025.12.024",
+			"pdflink": "Deveau et al - 2026 - Neuron.pdf",
 			"tags": [
-				"vision", 
+				"peerReview",
+				"vision",
 				"psychophysics",
-				"neuropixels"
+				"neuropixels",
+				"cortex"
 			]
 		},
 		{
