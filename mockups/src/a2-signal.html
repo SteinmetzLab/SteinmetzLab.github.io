@@ -332,10 +332,10 @@
 
 {{PARTIAL:a-foot.html}}
 
+{{SCRIPT:raster}}
+{{SCRIPT:widefield}}
+{{SCRIPT:engine}}
 <script>
-const RASTER = {{DATA:raster}};
-const WIDEFIELD = {{DATA:widefield}};
-{{PARTIAL:engine.js}}
 
 document.documentElement.dataset.palette = 'teal';
 document.documentElement.dataset.theme = 'dark';
@@ -470,7 +470,7 @@ SL.psychometric(document.getElementById('cardPsy'), {{JSON:psychometric}});
   else requestAnimationFrame(sync);
 })();
 
-/* The People grid is rendered at build time from assets/people.json -- see build.py. */
+/* The People grid is rendered at build time from data/people.json -- see build.py. */
 
 /* ---- publication filter ------------------------------------------------- */
 (() => {
