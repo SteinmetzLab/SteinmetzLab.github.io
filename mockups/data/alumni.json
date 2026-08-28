@@ -2,6 +2,22 @@
  "_comment": "Former lab members, newest departure first. Compiled from the trainee sections of Steinmetz_CV_SoM_2026-07-27.docx. 'now' is only filled in where the CV states a destination -- add more as you know them. Current members live in data/people.json.",
  "alumni": [
   {
+   "name": "Ian McFadden",
+   "role": "Undergraduate",
+   "years": "2026"
+  },
+  {
+   "name": "Allison Lin",
+   "role": "High-school student",
+   "years": "2025-2026"
+  },
+  {
+   "name": "Bersabel Bahru",
+   "role": "High-school student",
+   "years": "2026",
+   "note": "BRIGHT-UP program"
+  },
+  {
   "name": "Alex Wu",
   "role": "MD-PhD Rotation Student",
   "url": "",

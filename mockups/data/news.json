@@ -3,6 +3,12 @@
  "item": [
   {
    "date": "2026-08",
+   "kind": "award",
+   "title": "Alice Gettig and Rachel Yin have both received the Levinson Emerging Scholars Award!",
+   "note": "This competitive financial award will support their work in the lab. Congratulations!"
+  },
+  {
+   "date": "2026-08",
    "kind": "lab",
    "title": "Saghar Mirbagheri successfully defends PhD thesis!",
    "note": "On \"Prediction Content Shapes Population Representations in Mouse Primary Visual Cortex\"."

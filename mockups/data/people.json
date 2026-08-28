@@ -110,29 +110,5 @@
   "group": "undergrad",
   "joined": "2026-06-23",
   "img": "kimmie-shenoy"
- },
- {
-  "name": "Ian McFadden",
-  "role": "Undergraduate Scientist, summer",
-  "url": "",
-  "group": "undergrad",
-  "joined": "2026-07-08",
-  "img": "ian-mcfadden"
- },
- {
-  "name": "Allison Lin",
-  "role": "High-School Summer Student",
-  "url": "",
-  "group": "highschool",
-  "joined": "2025-06-30",
-  "img": null
- },
- {
-  "name": "Bersabel Bahru",
-  "role": "High-School Summer Student, BRIGHT-UP",
-  "url": "",
-  "group": "highschool",
-  "joined": "2026-07-13",
-  "img": null
  }
 ]

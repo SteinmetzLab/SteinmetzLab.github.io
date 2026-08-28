@@ -450,9 +450,10 @@ def people_by_group() -> str:
     return "\n      ".join(out)
 
 
-# Alumni are grouped by position in the same order as the current roster, so the two
-# halves of the People page read the same way down the page.
-ALUMNI_ORDER = ["Research scientist", "Postdoc", "Graduate student", "Rotation student",
+# Alumni are grouped by position, and the order is the current roster's with one
+# deliberate exception: postdocs lead here, while on the active list the staff scientists
+# sit above them. That difference is intended, not drift -- leave both as they are.
+ALUMNI_ORDER = ["Postdoc", "Research scientist", "Graduate student", "Rotation student",
                 "MD-PhD Rotation Student", "Undergraduate", "High-school student"]
 ALUMNI_HEADING = {"Research scientist": "Research scientists", "Postdoc": "Postdocs",
                   "Graduate student": "Graduate students",
