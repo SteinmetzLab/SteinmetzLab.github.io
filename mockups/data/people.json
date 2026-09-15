@@ -40,14 +40,6 @@
   "img": null
  },
  {
-  "name": "Saghar Mirbagheri",
-  "role": "PhD Student",
-  "url": "https://scholar.google.com/citations?user=5Jph4ToAAAAJ&hl=en",
-  "group": "grad",
-  "joined": "2019-10-16",
-  "img": "saghar-mirbagheri"
- },
- {
   "name": "Anna Li",
   "role": "PhD Student, NIH F31 Fellow",
   "url": "",
@@ -110,5 +102,21 @@
   "group": "undergrad",
   "joined": "2026-06-23",
   "img": "kimmie-shenoy"
+ },
+ {
+  "name": "Grace Sudarman",
+  "role": "Undergraduate Scientist",
+  "url": "",
+  "group": "undergrad",
+  "joined": "2026-09-15",
+  "img": null
+ },
+ {
+  "name": "Mari Igarashi",
+  "role": "Undergraduate Scientist",
+  "url": "",
+  "group": "undergrad",
+  "joined": "2026-09-15",
+  "img": null
  }
 ]
