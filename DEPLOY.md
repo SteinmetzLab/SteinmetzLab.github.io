@@ -1,8 +1,17 @@
 # Deploying
 
+> **This all happened.** The site launched in August 2026 and this repo *is*
+> `SteinmetzLab/SteinmetzLab.github.io`, which owns www.steinmetzlab.net. The staging repo
+> `website-v2` was merged back in on 2026-09-15, so there is one repo and one branch
+> (`master`) again, and deploying is a single `git push`. **For the day-to-day routine read
+> `mockups/EDITING.md`, not this file.**
+>
+> What follows is the original launch plan, kept because the reasoning still explains why
+> things are shaped the way they are: why the Pages source must be GitHub Actions, why
+> `static/sw.js` has to keep shipping, and why the old permalinks redirect.
+
 `.github/workflows/deploy.yml` builds `mockups/out` and publishes it to GitHub Pages on
-every push to `main`. Nothing here touches the live site until you point it at a repo that
-owns the live domain.
+every push to `main` or `master`.
 
 ## Test it first, three ways
 

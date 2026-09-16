@@ -6,32 +6,40 @@ This folder -- `D:\Dropbox\code\SteinmetzLabWebsite_v2\mockups` -- is the source
 and `src/` here are the only copy of the site's content; there is no other master
 somewhere else. Edit them and rebuild.
 
-The one thing that is *not* obvious is which GitHub repo publishes the result. There are
-two, and they hold identical trees:
+One repo publishes it:
 
-| Repo | What it publishes |
-|---|---|
-| `SteinmetzLab/SteinmetzLab.github.io`, branch **`master`** | **www.steinmetzlab.net** -- the live site |
-| `SteinmetzLab/website-v2`, branch `main` -- this folder's `origin` | Nothing. Since the launch its workflow publishes a single redirect (see DEPLOY.md). |
+| Repo | Branch | Publishes |
+|---|---|---|
+| `SteinmetzLab/SteinmetzLab.github.io` -- this folder's `origin` | `master` | **www.steinmetzlab.net** |
 
-So `git push origin main` from here **does not update the live site**. A change is only
-live once it also reaches `SteinmetzLab.github.io`'s `master`. Its history begins with the
-old Jekyll site, which is why it is a separate history rather than the same branch under
-two names; the trees are kept identical by hand.
-
-To deploy, push here for the record, then put the same commit on the live repo:
+So deploying is one push:
 
 ```
-git push origin main
-
-git clone --branch master https://github.com/SteinmetzLab/SteinmetzLab.github.io.git D:/temp/livesite
-#   copy the changed files from mockups/ into D:/temp/livesite/mockups/, then
-cd D:/temp/livesite && git add -A && git commit && git push origin master
+python build.py        # sanity-check what you changed in out/
+git add -A && git commit
+git push
 ```
 
-Before pushing, confirm the two trees match -- `git rev-parse HEAD^{tree}` in each should
-print the same hash. That is the check that the live repo really got what you built.
-Pushing to `master` runs the workflow, which builds and deploys in two or three minutes.
+Pushing to `master` runs `.github/workflows/deploy.yml`, which builds `out/` again from
+these sources and publishes it. Two or three minutes later it is live. Check the live URL
+rather than assuming; the Actions tab shows the run.
+
+### The repo this used to be
+
+Until 2026-09-15 there were **two** repos carrying identical trees: this one and
+`SteinmetzLab/website-v2`, where the rebuilt site was developed and reviewed before it
+replaced the old Jekyll site. Only `SteinmetzLab.github.io` ever published, so every
+change took two pushes and it was easy to push, see nothing change, and not know why.
+
+The two histories have been merged, so `master` here now reaches both the Jekyll site's
+history (back to 2017) and the website-v2 development history. **`website-v2` is no longer
+a push target and nothing needs to go there.** It still exists, still has its own copy of
+the development history, and still publishes the one-line redirect that catches old
+`/website-v2/` links. If a clone of this project still lists it as `origin`, repoint it:
+
+```
+git remote set-url origin https://github.com/SteinmetzLab/SteinmetzLab.github.io.git
+```
 
 ## The one rule
 

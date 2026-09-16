@@ -671,6 +671,18 @@ DOC_HEAD = (
 )
 DOC_TAIL = "\n</body>\n</html>\n"
 
+# The tab icon. Relative hrefs, like every other link here, so the set still resolves when
+# the site is served from a github.io sub-path; browsers also probe /favicon.ico on their
+# own, and static/ puts the file exactly there. Built by tools/make_favicon.py from
+# assets/mark.svg -- see that file for why 16 px is a silhouette and 32 px is not.
+# Only the lab site gets these: out-personal/ copies nothing from static/ but the CV, so
+# pointing it at favicon.ico would be three requests that 404.
+FAVICON_LINKS = (
+    '<link rel="icon" href="favicon.ico" sizes="48x48 32x32 16x16">\n'
+    '<link rel="icon" type="image/png" href="favicon-32.png" sizes="32x32">\n'
+    '<link rel="apple-touch-icon" href="favicon-180.png">\n'
+)
+
 
 GENERATED_BANNER = (
     "<!-- GENERATED FILE - DO NOT EDIT.\n"
@@ -801,7 +813,7 @@ def main(argv: list[str]) -> int:
         if not src.exists():
             print(f"!! missing {src}")
             return 1
-        html = (GENERATED_BANNER.format(name=name) + DOC_HEAD
+        html = (GENERATED_BANNER.format(name=name) + DOC_HEAD + FAVICON_LINKS
                 + render(src.read_text(encoding="utf-8"), name) + DOC_TAIL)
         dst = OUT / name
         dst.write_text(html, encoding="utf-8")
