@@ -6,20 +6,26 @@
    Light editorial body, dark full-bleed bands where the live data lives.
 
    Type   SLCond (Open Sans Condensed Bold) for condensed caps display -- it
-          echoes the lockup in the lab logo. SLSans for reading. System mono
-          for anything with a unit attached.
+          echoes the lockup in the lab logo. SLSans for reading, and also for
+          the small labels, captions and readouts, in sentence case.
    Layout One 1180px measure. Dark bands break the page into acts: hero,
           the scrubber, the footer. Everything between them is white and quiet.
    =========================================================================== */
 
 /* ---- typeface options -----------------------------------------------------
    All four are OFL/Apache licensed and self-hostable; the page embeds subsets, so
-   nothing is fetched from a font CDN. One monospace (IBM Plex Mono) is shared, since
-   it only ever carries numbers, units and captions.                            */
+   nothing is fetched from a font CDN.
+
+   --label is the face for small labels, captions, dates and live readouts. Until
+   2026-09-25 that was a monospace (IBM Plex Mono) in spaced capitals; it is now the
+   body sans in sentence case with no letterspacing, which reads as less machine-made.
+   Plex Sans has equal-width digits by default, so the ticking readouts do not jitter
+   without the monospace. --mono survives only as an alias, for the older a-* mockups. */
 :root {
   --cond: 'SLC-plex', 'Arial Narrow', 'Helvetica Neue', sans-serif;
   --sans: 'SLS-plex', 'Segoe UI', system-ui, -apple-system, sans-serif;
-  --mono: 'SLMono', ui-monospace, 'Cascadia Mono', 'SF Mono', Consolas, monospace;
+  --label: var(--sans);
+  --mono: var(--label);
 
   --bg: var(--lite);
   --bg-2: var(--lite-2);
@@ -97,9 +103,7 @@ canvas { display: block; }
 
 /* ---- shared type devices ------------------------------------------------- */
 .eyebrow {
-  font: 700 0.6875rem/1 var(--mono);
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
+  font: 700 0.9375rem/1.25 var(--label);
   color: var(--fg-3);
   display: flex;
   align-items: center;
@@ -146,9 +150,8 @@ canvas { display: block; }
   line-height: 0.94;
 }
 .meta {
-  font: 400 0.75rem/1.5 var(--mono);
+  font: 400 0.875rem/1.5 var(--label);
   color: var(--fg-3);
-  letter-spacing: 0.01em;
 }
 .lede { font-size: var(--step-1); line-height: 1.55; color: var(--fg-2); max-width: 46ch; }
 
@@ -166,7 +169,7 @@ canvas { display: block; }
 }
 
 /* ---- phones --------------------------------------------------------------
-   The type scale already grows with the viewport, but the mono labels are set
+   The type scale already grows with the viewport, but the small labels are set
    in fixed rem and were chosen against a desktop reading distance; at 10-11 px
    on a phone they are too small to be worth having. Nudge the smallest ones up
    and let the tightest grids breathe. */
@@ -175,9 +178,9 @@ canvas { display: block; }
     --step--1: clamp(0.84rem, 0.8rem + 0.4vw, 0.9rem);
     --step-0: clamp(1rem, 0.96rem + 0.3vw, 1.06rem);
   }
-  .card__tag, .seg button, .readout, .eyebrow { font-size: 0.75rem; }
-  .pub__j, .pub__pdf, .alum__y, .cohort, .pubyear { font-size: 0.75rem; }
-  .kind, .item__d { font-size: 0.6875rem; }
+  /* Only the chips still need help: the other labels grew past these sizes when they
+     moved off the monospace, and an override here would now shrink them on a phone. */
+  .card__tag, .kind, .seg button, .pub__pdf { font-size: 0.8125rem; }
 }
 
 /* ---- header -------------------------------------------------------------- */
@@ -265,8 +268,7 @@ canvas { display: block; }
 }
 .brand__sub {
   display: block;
-  font: 400 0.5rem/1 var(--mono);
-  letter-spacing: 0.14em;
+  font: 400 0.625rem/1 var(--label);
   opacity: 0.62;
   margin-top: 0.125rem;
 }

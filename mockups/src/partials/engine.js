@@ -670,7 +670,8 @@ const SL = (() => {
 
       // canvas cannot parse var() in a font string or a color, so resolve them here
       const cs = getComputedStyle(document.documentElement);
-      const mono = cs.getPropertyValue('--mono').trim() || 'monospace';
+      const mono = (cs.getPropertyValue('--label') || cs.getPropertyValue('--mono')).trim()
+        || 'sans-serif';   // --label on the live pages; --mono on the old mockups
       ctx.lineWidth = Math.max(1, dpr);
       ctx.strokeStyle = cs.getPropertyValue('--drule').trim() || '#333';
       ctx.beginPath();

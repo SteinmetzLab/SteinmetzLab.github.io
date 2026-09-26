@@ -136,9 +136,7 @@
   box-shadow: 0 8px 30px rgb(0 0 0 / 0.45);
 }
 .pal__label {
-  font: 700 0.5625rem/1 var(--mono);
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
+  font: 700 0.6875rem/1 var(--label);
   color: var(--di-3);
   padding-inline: 0.25rem 0.125rem;
 }

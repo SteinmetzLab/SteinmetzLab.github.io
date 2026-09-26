@@ -108,8 +108,12 @@ def _face(family: str, weight: str, role: str, adjust: float | None = None) -> s
 
 
 def fonts_css() -> str:
-    """All four switchable sans options plus the shared mono (mockups A, B, C)."""
-    out = [_face("SLMono", "400", "mono-400")]
+    """All four switchable sans options (the live lab and personal sites, mockups A-C).
+
+    No monospace since 2026-09-25: the labels that used it are set in the body sans now,
+    so declaring the face would only ship a file nothing asks for. The old mockup C still
+    names 'SLMono' and simply falls through to the system monospace in its stack."""
+    out = []
     for slug, cfg in FONT_OPTIONS.items():
         out.append(_face(f"SLC-{slug}", "700", f"{slug}-cond"))
         out.append(_face(f"SLS-{slug}", "400", f"{slug}-400", cfg["adjust"]))
