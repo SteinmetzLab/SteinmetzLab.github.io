@@ -93,9 +93,9 @@
 				"Chapuis G",
 				"Winter O",
 				"IBL",
-				"Ressmeyer R", 
-				"Bun LM", 
-				"Canfield RA", 
+				"Ressmeyer R",
+				"Bun LM",
+				"Canfield RA",
 				"Horwitz GD",
 				"Steinmetz NA"
 			],
@@ -104,9 +104,9 @@
 				"Chapuis",
 				"Winter",
 				"IBL",
-				"Ressmeyer", 
-				"Bun", 
-				"Canfield", 
+				"Ressmeyer",
+				"Bun",
+				"Canfield",
 				"Horwitz",
 				"Steinmetz"
 			],
@@ -227,7 +227,8 @@
 				"neuropixels",
 				"optogenetics",
 				"methods"
-			]
+			],
+			"pdflink": "Lakunina et al - 2026 - Nat Methods.pdf"
 		},
 		{
 			"authors": [
@@ -371,7 +372,7 @@
 		},
 		{
 			"authors": [
-				"Ye Z*", 
+				"Ye Z*",
 				"Shelton A*",
 				"Shaker J",
 				"Boussard J",
@@ -387,7 +388,7 @@
 				"Steinmetz NA"
 			],
 			"authors_short": [
-				"Ye*", 
+				"Ye*",
 				"Shelton*",
 				"Shaker",
 				"Boussard",
@@ -416,7 +417,7 @@
 		},
 		{
 			"authors": [
-				"Findling C", 
+				"Findling C",
 				"Hubert F",
 				"The International Brain Laboratory",
 				"...",
@@ -444,7 +445,8 @@
 				"selected",
 				"neuropixels",
 				"brainwide"
-			]
+			],
+			"pdflink": "Findling et al - 2025 - Nature.pdf"
 		},
 		{
 			"authors": [
@@ -472,12 +474,13 @@
 				"selected",
 				"neuropixels",
 				"brainwide"
-			]
+			],
+			"pdflink": "IBL - 2025 - Nature.pdf"
 		},
 		{
 			"authors": [
 				"Yu H",
-				"Lyu H", 
+				"Lyu H",
 				"Xu EY",
 				"Windolf C",
 				"Lee EK",
@@ -496,7 +499,7 @@
 			"authors_short": [
 				"Yu",
 				"Lyu",
-				"Xu", 
+				"Xu",
 				"Windolf",
 				"Lee",
 				"Yang",
@@ -521,22 +524,22 @@
 				"brainwide",
 				"IBL"
 			]
-		}, 
+		},
 		{
 			"authors": [
-				"Deveau C", 
+				"Deveau C",
 				"Zhou Z",
 				"LaFosse PK",
-				"Deng Y", 
+				"Deng Y",
 				"Mirbagheri S",
 				"Steinmetz NA",
 				"Histed MH"
 			],
 			"authors_short": [
-				"Deveau", 
+				"Deveau",
 				"Zhou",
 				"LaFosse",
-				"Deng", 
+				"Deng",
 				"Mirbagheri",
 				"Steinmetz",
 				"Histed"
@@ -556,7 +559,7 @@
 		},
 		{
 			"authors": [
-				"Chandrasekaran AD", 
+				"Chandrasekaran AD",
 				"Vermani A",
 				"Gupta P",
 				"Steinmetz NA",
@@ -564,7 +567,7 @@
 				"Sridharan D"
 			],
 			"authors_short": [
-				"Chandrasekaran", 
+				"Chandrasekaran",
 				"Vermani",
 				"Gupta",
 				"Steinmetz",
@@ -578,9 +581,10 @@
 			"tags": [
 				"peerReview",
 				"attention",
-				"vision", 
+				"vision",
 				"psychophysics"
-			]
+			],
+			"pdflink": "Chandrasekaran et al - 2024 - Sci Adv.pdf"
 		},
 		{
 			"authors": [
@@ -620,11 +624,12 @@
 				"widefield",
 				"brainwide",
 				"dynamics"
-			]
+			],
+			"pdflink": "Ye et al - 2026 - Science.pdf"
 		},
 		{
 			"authors": [
-				"Birman D", 
+				"Birman D",
 				"Yang KJ",
 				"West SJ",
 				"Karsh B",
@@ -678,7 +683,8 @@
 				"selected",
 				"neuropixels",
 				"brainwide"
-			]
+			],
+			"pdflink": "Ottenheimer et al - 2023 - eLife.pdf"
 		},
 		{
 			"authors": [
@@ -709,7 +715,8 @@
 				"peerReview",
 				"neuropixels",
 				"brainwide"
-			]
+			],
+			"pdflink": "Song et al - 2024 - PNAS.pdf"
 		},
 		{
 			"authors": [
@@ -836,7 +843,8 @@
 				"selected",
 				"neuropixels",
 				"IBL"
-			]
+			],
+			"pdflink": "IBL - 2025 - eLife.pdf"
 		},
 		{
 			"authors": [
@@ -986,25 +994,26 @@
 				"behavior",
 				"attention",
 				"dynamics"
-			]
+			],
+			"pdflink": "Shi et al - 2022 - Nat Comm.pdf"
 		},
 		{
 			"authors": [
 				"Van Kempen J",
 				"Gieselmann MA",
-				"Boyd M", 
+				"Boyd M",
 				"Steinmetz NA",
 				"Moore T",
-				"Engel TA", 
+				"Engel TA",
 				"Thiele A"
 			],
 			"authors_short": [
 				"Van Kempen",
 				"Gieselmann",
-				"Boyd", 
+				"Boyd",
 				"Steinmetz",
 				"Moore",
-				"Engel", 
+				"Engel",
 				"Thiele"
 			],
 			"title": "Top-down coordination of local cortical state during selective attention",
@@ -1013,9 +1022,9 @@
 			"link": "https://doi.org/10.1016/j.neuron.2020.12.013",
 			"tags": [
 				"peerReview",
-				"attention", 
-				"dynamics", 
-				"vision", 
+				"attention",
+				"dynamics",
+				"vision",
 				"behavior"
 			]
 		},
@@ -1075,8 +1084,8 @@
 				"Steinmetz NA",
 				"Gieselmann M",
 				"Thiele A",
-				"Moore T", 
-				"Levina A", 
+				"Moore T",
+				"Levina A",
 				"Engel T"
 			],
 			"authors_short": [
@@ -1096,7 +1105,8 @@
 			"tags": [
 				"vision",
 				"attention"
-			]
+			],
+			"pdflink": "Zeraati et al - 2023 - Nat Comm.pdf"
 		},
 		{
 			"authors": [
@@ -1117,7 +1127,8 @@
 			"link": "https://doi.org/10.21105/jose.00118",
 			"tags": [
 				"neuropixels"
-			]
+			],
+			"pdflink": "t Hart et al - 2022 - JOSE.pdf"
 		},
 		{
 			"authors": [
@@ -1182,7 +1193,8 @@
 				"Peters",
 				"Carandini",
 				"Harris"
-			]
+			],
+			"pdflink": "Jacobs et al - 2020 - Curr Biol.pdf"
 		},
 		{
 			"authors": [
@@ -1210,7 +1222,7 @@
 			"authors": [
 				"Linden N",
 				"Tabuena D",
-				"Steinmetz NA", 
+				"Steinmetz NA",
 				"Moody W",
 				"Brunton S",
 				"Brunton B"
@@ -1218,7 +1230,7 @@
 			"authors_short": [
 				"Linden",
 				"Tabuena",
-				"Steinmetz", 
+				"Steinmetz",
 				"Moody",
 				"Brunton S",
 				"Brunton B"
@@ -1229,7 +1241,7 @@
 			"link": "https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0523",
 			"tags": [
 				"peerReview",
-				"widefield", 
+				"widefield",
 				"dynamics"
 			]
 		},
@@ -1243,7 +1255,7 @@
 			],
 			"authors_short": [
 				"Dimitriadis",
-				"Neto", 
+				"Neto",
 				"...",
 				"Steinmetz",
 				"et al."

@@ -326,7 +326,9 @@ def people_quiet() -> str:
     return "\n        ".join(out)
 
 
-# Author copies of the papers, served from static/papers/ alongside the site.
+# Author copies of the papers, served from static/papers/ alongside the lab site. The
+# personal site lives in a different repo with no papers/ of its own, so build_personal()
+# points this at the lab site's copies instead of shipping a second set of PDFs.
 PDF_BASE = "papers/"
 
 
@@ -712,9 +714,12 @@ def build_personal() -> int:
 
     Separate from out/ because the same source has to link to ns-index.html when it is
     previewed alongside the lab site, and to index.html once it is the site."""
+    global PDF_BASE
     dest = ROOT / "out-personal"
     dest.mkdir(exist_ok=True)
     _use_asset_dir(dest)
+    # Until 2026-10-12 this stayed relative, and every PDF link on nicksteinmetz.com 404'd.
+    PDF_BASE = SITE_URL + "papers/"
     for src_name, out_name in PERSONAL.items():
         html = (GENERATED_BANNER.format(name=src_name) + DOC_HEAD
                 + render((SRC / src_name).read_text(encoding="utf-8"), src_name, deploy=True)
